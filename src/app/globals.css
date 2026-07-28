@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#top {
+  min-height: 100%;
+  width: 100%;
+}
+
+[data-component-name="rive-container"] .opacity-0 {
+  opacity: 1 !important;
+}
+
+[data-initiated="true"][data-sidebar-ready="true"] ~ #main-content {
+  opacity: 1;
+}
+
+#scene-portal canvas {
+  width: 100%;
+  height: 100%;
+}

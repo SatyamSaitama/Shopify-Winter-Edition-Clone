@@ -1,0 +1,2783 @@
+[
+  {
+    "index": 0,
+    "productHandle": "sidekick-pulse",
+    "sectionId": "sidekick",
+    "description": "An array of several tips with vibrant illustrations come together. Abstract illustration suggests that admin data is being pulled together to form one specific suggestion regarding converting customers in the new year.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/pulse_12_10.riv?v=1765345873",
+    "artboard": "digestMain",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "digestMain/rivePulseTextRun1": "Unfulfilled",
+      "digestMain/rivePulseTextRun2": "$189,657.98",
+      "digestMain/rivePulseTextRun3": "Total sales",
+      "digestMain/rivePulseTextRun4": "Pulse",
+      "digestMain/rivePulseTextRun5": "New",
+      "digestMain/rivePulseTextRun6": "New year momentum: convert, bundle, and scale",
+      "digestMain/rivePulseTextRun7": "Explore your Pulse",
+      "digestMain/rivePulseTextRun8": "Paid",
+      "digestMain/rivePulseTextRun9": "New",
+      "digestMain/rivePulseTextRun10": "Pulse",
+      "digestMain/rivePulseTextRun11": "From foot traffic to omnichannel growth",
+      "digestMain/rivePulseTextRun12": "Explore your Pulse",
+      "digestMain/rivePulseTextRun13": "New",
+      "digestMain/rivePulseTextRun14": "Pulse",
+      "digestMain/rivePulseTextRun15": "Grow AOV and bring buyers back",
+      "digestMain/rivePulseTextRun16": "Explore your Pulse",
+      "digestMain/rivePulseTextRun17": "New",
+      "digestMain/rivePulseTextRun18": "Pulse",
+      "digestMain/rivePulseTextRun19": "Own the spring cleaning rush",
+      "digestMain/rivePulseTextRun20": "Explore your Pulse",
+      "digestMain/rivePulseTextRun21": "New",
+      "digestMain/rivePulseTextRun22": "Pulse",
+      "digestMain/rivePulseTextRun23": "Fix stockouts, unlock smarter growth",
+      "digestMain/rivePulseTextRun24": "Explore your Pulse",
+      "digestMain/rivePulseTextRun25": "New",
+      "digestMain/rivePulseTextRun26": "Pulse",
+      "digestMain/rivePulseTextRun27": "Restock, retain, and raise the value of every order",
+      "digestMain/rivePulseTextRun28": "Explore your Pulse",
+      "pulseDesktop/rivePulseTextRun29": "Search",
+      "pulseDesktop/rivePulseTextRun30": "MVSE",
+      "pulseDesktop/rivePulseTextRun31": "Home",
+      "pulseDesktop/rivePulseTextRun32": "Orders",
+      "pulseDesktop/rivePulseTextRun33": "Products",
+      "pulseDesktop/rivePulseTextRun34": "Customers",
+      "pulseDesktop/rivePulseTextRun35": "Marketing",
+      "pulseDesktop/rivePulseTextRun36": "Discounts",
+      "pulseDesktop/rivePulseTextRun37": "Content",
+      "pulseDesktop/rivePulseTextRun38": "Markets",
+      "pulseDesktop/rivePulseTextRun39": "Finances",
+      "pulseDesktop/rivePulseTextRun40": "Analytics",
+      "pulseDesktop/rivePulseTextRun41": "Online Store",
+      "pulseDesktop/rivePulseTextRun42": "Point of Sale",
+      "pulseDesktop/rivePulseTextRun43": "Shop",
+      "pulseDesktop/rivePulseTextRun44": "Pulse: New year momentum",
+      "pulseDesktop/rivePulseTextRun45": "Build staff onboarding app",
+      "pulseDesktop/rivePulseTextRun46": "Discounts for email campaign",
+      "pulseDesktop/rivePulseTextRun47": "Settings",
+      "pulseDesktop/rivePulseTextRun48": "Pulse",
+      "pulseDesktop/rivePulseTextRun49": "3 next actions",
+      "pulseDesktop/rivePulseTextRun50": "New year momentum: convert, bundle, and scale",
+      "pulseDesktop/rivePulseTextRun51": "Week of Dec 10",
+      "pulseDesktop/rivePulseTextRun52": "A/B test a free shipping threshold to lift average order value",
+      "pulseDesktop/rivePulseTextRun53": "Your discounted orders already outperform full-price, showing that customers respond to incentives. With a 65.2% margin, you could test a free shipping threshold to raise AOV, without a major hit to shipping costs. Consider A/B testing a $175 threshold for 2–4 weeks and adding cart messaging like \"Add $X more for free shipping.\"",
+      "pulseDesktop/rivePulseTextRun54": "Test free shipping threshold",
+      "pulseDesktop/rivePulseTextRun55": "Set up abandoned cart emails to recover lost sales",
+      "pulseDesktop/rivePulseTextRun56": "Your store sees 257 shoppers reach checkout each month, but only about half finish their purchase, leaving many carts behind. Automating abandoned cart emails can help you win back these lost orders, with industry stats showing 10–20% of shopper return to complete their purchase when prompted. Setting up a follow-up email series is an effective way to turn missed opportunities into extra revenue each month.",
+      "pulseDesktop/rivePulseTextRun57": "Build cart recovery strategy",
+      "pulseDesktop/rivePulseTextRun58": "Launch a new year campaign targeting your clothing bestsellers to boost seasonal revenue",
+      "pulseDesktop/rivePulseTextRun59": "Hearthside Hoodies did $487k in organic sales in 90 days. Consider launching a 25% off \"Hoodie Season\" promo with 15% off hoodie + beanie bundles, gift card offers, segmented emails, and refreshed copy focused on gifting and winter layering.",
+      "pulseDesktop/rivePulseTextRun61": "Build new year campaign now",
+      "pulseMobile/rivePulseTextRun62": "Search",
+      "pulseMobile/rivePulseTextRun63": "MVSE",
+      "pulseMobile/rivePulseTextRun64": "3 next actions",
+      "pulseMobile/rivePulseTextRun65": "New year momentum: convert, bundle, and scale",
+      "pulseMobile/rivePulseTextRun66": "Week of Dec 10",
+      "pulseMobile/rivePulseTextRun67": "A/B test a free shipping threshold to lift average order value",
+      "pulseMobile/rivePulseTextRun68": "Your discounted orders already outperform full-price, showing that customers respond to incentives. With a 65.2% margin, you could test a free shipping threshold to raise AOV, without a major hit to shipping costs. Consider A/B testing a $175 threshold for 2–4 weeks and adding cart messaging like \"Add $X more for free shipping.\"",
+      "pulseMobile/rivePulseTextRun69": "Test free shipping threshold",
+      "pulseMobile/rivePulseTextRun70": "Set up abandoned cart emails to recover lost sales",
+      "pulseMobile/rivePulseTextRun71": "Your store sees 257 shoppers reach checkout each month, but only about half finish their purchase, leaving many carts behind. Automating abandoned cart emails can help you win back these lost orders, with industry stats showing 10–20% of shopper return to complete their purchase when prompted. Setting up a follow-up email series is an effective way to turn missed opportunities into extra revenue each month.",
+      "pulseMobile/rivePulseTextRun72": "Build cart recovery strategy",
+      "pulseMobile/rivePulseTextRun73": "Launch a new year campaign targeting your clothing bestsellers to boost seasonal revenue",
+      "pulseMobile/rivePulseTextRun74": "Hearthside Hoodies did $487k in organic sales in 90 days. Consider launching a 25% off \"Hoodie Season\" promo with 15% off hoodie + beanie bundles, gift card offers, segmented emails, and refreshed copy focused on gifting and winter layering.",
+      "pulseMobile/rivePulseTextRun75": "Build new year campaign now",
+      "pulseDesktop/rivePulseTextRun76": "Run an A/B test to drive increased basket sizes while protecting your 65% gross margin.",
+      "pulseDesktop/rivePulseTextRun77": "Set up reminder emails with segmented messaging to recover abandoned checkouts.",
+      "pulseDesktop/rivePulseTextRun78": "Create a promo bundle, gift card offers, and segmented emails to capture more seasonal revenue.",
+      "pulseMobile/rivePulseTextRun79": "Run an A/B test to drive increased basket sizes while protecting your 65% gross margin.",
+      "pulseMobile/rivePulseTextRun80": "Set up reminder emails with segmented messaging to recover abandoned checkouts.",
+      "pulseMobile/rivePulseTextRun81": "Create a promo bundle, gift card offers, and segmented emails to capture more seasonal revenue."
+    },
+    "assetsMap": {
+      "rive_digest_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_1-desktop.webp?v=1763060510",
+        "image": null,
+        "localUrl": "/assets/rive-external/0dbfa483e7-rive_digest_1-desktop.webp"
+      },
+      "rive_digest_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_1-mobile.webp?v=1763060509",
+        "image": null,
+        "localUrl": "/assets/rive-external/0aa037b763-rive_digest_1-mobile.webp"
+      },
+      "rive_digest_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_2-desktop.webp?v=1763060510",
+        "image": null,
+        "localUrl": "/assets/rive-external/559ebc0f71-rive_digest_2-desktop.webp"
+      },
+      "rive_digest_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_2-mobile.webp?v=1763060509",
+        "image": null,
+        "localUrl": "/assets/rive-external/ca7a9a12e2-rive_digest_2-mobile.webp"
+      },
+      "rive_digest_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_3-desktop.webp?v=1763060510",
+        "image": null,
+        "localUrl": "/assets/rive-external/48c3c7bd39-rive_digest_3-desktop.webp"
+      },
+      "rive_digest_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_3-mobile.webp?v=1763060509",
+        "image": null,
+        "localUrl": "/assets/rive-external/dbe9e51764-rive_digest_3-mobile.webp"
+      },
+      "rive_digest_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_4-desktop.webp?v=1763060510",
+        "image": null,
+        "localUrl": "/assets/rive-external/195c378077-rive_digest_4-desktop.webp"
+      },
+      "rive_digest_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_4-mobile.webp?v=1763060510",
+        "image": null,
+        "localUrl": "/assets/rive-external/876289095b-rive_digest_4-mobile.webp"
+      },
+      "rive_digest_5-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_5-desktop.webp?v=1764264158",
+        "image": null,
+        "localUrl": "/assets/rive-external/a7cefc0cab-rive_digest_5-desktop.webp"
+      },
+      "rive_digest_5-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_5-mobile.webp?v=1764264163",
+        "image": null,
+        "localUrl": "/assets/rive-external/eef2861788-rive_digest_5-mobile.webp"
+      },
+      "rive_digest_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_6-desktop.webp?v=1764264176",
+        "image": null,
+        "localUrl": "/assets/rive-external/3878aa82ce-rive_digest_6-desktop.webp"
+      },
+      "rive_digest_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_6-mobile.webp?v=1764264181",
+        "image": null,
+        "localUrl": "/assets/rive-external/3784985d21-rive_digest_6-mobile.webp"
+      },
+      "rive_digest_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_7-desktop.webp?v=1764264198",
+        "image": null,
+        "localUrl": "/assets/rive-external/77ac3adc53-rive_digest_7-desktop.webp"
+      },
+      "rive_digest_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_7-mobile.webp?v=1764264204",
+        "image": null,
+        "localUrl": "/assets/rive-external/7e463d77ae-rive_digest_7-mobile.webp"
+      },
+      "rive_digest_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_8-desktop.webp?v=1764264238",
+        "image": null,
+        "localUrl": "/assets/rive-external/36afdc247b-rive_digest_8-desktop.webp"
+      },
+      "rive_digest_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_8-mobile.webp?v=1764264231",
+        "image": null,
+        "localUrl": "/assets/rive-external/de0e844fc7-rive_digest_8-mobile.webp"
+      },
+      "rive_digest_9-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_9-desktop.webp?v=1764264264",
+        "image": null,
+        "localUrl": "/assets/rive-external/a520db8a0a-rive_digest_9-desktop.webp"
+      },
+      "rive_digest_9-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_9-mobile.webp?v=1764264268",
+        "image": null,
+        "localUrl": "/assets/rive-external/3c55f337c6-rive_digest_9-mobile.webp"
+      },
+      "sidekick_digest_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/sidekick_digest_1-desktop.webp?v=1764264300",
+        "image": null,
+        "localUrl": "/assets/rive-external/1b860e4ac2-sidekick_digest_1-desktop.webp"
+      },
+      "sidekick_digest_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/sidekick_digest_1-mobile.webp?v=1764264306",
+        "image": null,
+        "localUrl": "/assets/rive-external/948a7dc72f-sidekick_digest_1-mobile.webp"
+      },
+      "rive_digest_10-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_10-desktop.webp?v=1764264425",
+        "image": null,
+        "localUrl": "/assets/rive-external/3c969acf7d-rive_digest_10-desktop.webp"
+      },
+      "rive_digest_10-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_10-mobile.webp?v=1764264425",
+        "image": null,
+        "localUrl": "/assets/rive-external/a655952482-rive_digest_10-mobile.webp"
+      },
+      "rive_digest_11-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_11-desktop.webp?v=1764264425",
+        "image": null,
+        "localUrl": "/assets/rive-external/f87d8895c9-rive_digest_11-desktop.webp"
+      },
+      "rive_digest_11-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_11-mobile.webp?v=1764264425",
+        "image": null,
+        "localUrl": "/assets/rive-external/1d9c7c39da-rive_digest_11-mobile.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/pulse_12_10.riv"
+  },
+  {
+    "index": 1,
+    "productHandle": "sidekick-builds-workflows-in-shopify-flow",
+    "sectionId": "sidekick",
+    "description": "A sidekick prompt field asking to be emailed when any product inventory drops below 5. The flow is then created.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/flow_12_9.riv?v=1765300683",
+    "artboard": "flowMain",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "flowMain/riveFlowTextRun1": "Ask anything...",
+      "flowMain/riveFlowTextRun2": "Email alert for low inventory (below 5)",
+      "sidekick/riveFlowTextRun3": "I'll create a workflow that monitors inventory levels and emails you when any product variant drops below 5 for the first time.",
+      "sidekick/riveFlowTextRun4": "1.",
+      "sidekick/riveFlowTextRun5": "Trigger:",
+      "sidekick/riveFlowTextRun6": "Monitors inventory changes for all product variants in your store",
+      "sidekick/riveFlowTextRun7": "2.",
+      "sidekick/riveFlowTextRun8": "Condition:",
+      "sidekick/riveFlowTextRun9": "Checks if inventory drops below 5 for the first time (current inventory is less than 5 AND previous inventory was 5 or more)",
+      "sidekick/riveFlowTextRun10": "3.",
+      "sidekick/riveFlowTextRun11": "Action:",
+      "sidekick/riveFlowTextRun12": "Sends you an email with details including the product name, variant, current inventory level, previous inventory level, and SKU",
+      "flow/riveFlowTextRun13": "Product variant inventory quantity changed",
+      "flow/riveFlowTextRun14": "This workflow starts when the inventory level changes for a specific product variant.",
+      "flow/riveFlowTextRun15": "Condition",
+      "flow/riveFlowTextRun16": "Product variant inventory quantity is less than 5.0",
+      "flow/riveFlowTextRun17": "AND",
+      "flow/riveFlowTextRun18": "Inventory quantity prior is greater than or equal to 5.0",
+      "flow/riveFlowTextRun19": "True",
+      "flow/riveFlowTextRun20": "False",
+      "flow/riveFlowTextRun21": "Send internal email",
+      "flow/riveFlowTextRun22": "Send email to david@mvseskate.com with the following subject:",
+      "flow/riveFlowTextRun23": "Low Inventory Alert: {{productVariant.displayName}}",
+      "flowMain/riveFlowTextRun24": "Create a workflow to email me when inventory for any variant drops below 5 for the first time"
+    },
+    "assetsMap": {
+      "rive_flow_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_1-desktop.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/3b692d751d-rive_flow_1-desktop.webp"
+      },
+      "rive_flow_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_1-mobile.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/4d6d89b0f5-rive_flow_1-mobile.webp"
+      },
+      "rive_flow_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_2-desktop.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/d2b1a5b3ed-rive_flow_2-desktop.webp"
+      },
+      "rive_flow_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_2-mobile.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/636c81caa4-rive_flow_2-mobile.webp"
+      },
+      "rive_flow_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_3-desktop.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/93858b1a87-rive_flow_3-desktop.webp"
+      },
+      "rive_flow_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_3-mobile.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/929bddb29b-rive_flow_3-mobile.webp"
+      },
+      "rive_flow_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_4-desktop.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/4d80b22afd-rive_flow_4-desktop.webp"
+      },
+      "rive_flow_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_4-mobile.webp?v=1763746806",
+        "image": null,
+        "localUrl": "/assets/rive-external/480a6f47ca-rive_flow_4-mobile.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/flow_12_9.riv"
+  },
+  {
+    "index": 2,
+    "productHandle": "sidekick-generates-custom-analytics-reports",
+    "sectionId": "sidekick",
+    "description": "A sidekick prompt to show high value products from the past three months, and brings up a graph of best selling products.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u7_12_16.riv?v=1765913801",
+    "artboard": "u7main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "vm_main",
+    "interactive": false,
+    "playsOnHover": true,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "u7main/u7textRun1": "Refine query",
+      "u7main/u7textRun2": "Show me high value products in the past three months",
+      "u7main/u7textRun3": "Patch Crossbody",
+      "u7main/u7textRun4": "Parterre Skateboard Complete",
+      "u7main/u7textRun5": "Bosquet Skateboard Complete",
+      "u7main/u7textRun6": "Flora Sneakers",
+      "u7main/u7textRun7": "Net sales",
+      "table/u7textRun8": "Product title",
+      "table/u7textRun9": "Net sales",
+      "table/u7textRun10": "Net items sold",
+      "table/u7textRun11": "Summary",
+      "table/u7textRun12": "$11,800.00",
+      "table/u7textRun13": "117",
+      "table/u7textRun14": "Flora Sneakers",
+      "table/u7textRun15": "$4,000.00",
+      "table/u7textRun16": "56",
+      "buttonLayout/u7textRun17": "All time",
+      "buttonLayout/u7textRun18": "No comparison",
+      "buttonLayout/u7textRun19": "USD $"
+    },
+    "assetsMap": {
+      "u7bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u7bg.webp?v=1765258162",
+        "image": null,
+        "localUrl": "/assets/rive-external/66e9c34aba-u7bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u7_12_16.riv"
+  },
+  {
+    "index": 3,
+    "productHandle": "sidekick-builds-segments",
+    "sectionId": "sidekick",
+    "description": "A sidekick prompt to show customers subscribed to marketing who have made no purchases brings up a filtered list of customers.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u2_12_10.riv?v=1765346114",
+    "artboard": "u2main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "vm_main",
+    "interactive": true,
+    "playsOnHover": true,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "index/u2textRun1": "Customer",
+      "index/u2textRun2": "Aisha Khan",
+      "index/u2textRun3": "Floyd Miles",
+      "index/u2textRun4": "Amara Okafor",
+      "index/u2textRun5": "Ralph Edwards",
+      "index/u2textRun6": "Theresa Webb",
+      "index/u2textRun7": "Jenny Wilson",
+      "index/u2textRun8": "Darrell Steward",
+      "index/u2textRun9": "Annette Black",
+      "index/u2textRun10": "Devon Lane Black",
+      "index/u2textRun11": "Email subscription",
+      "index/u2textRun12": "Subscribed",
+      "index/u2textRun13": "Subscribed",
+      "index/u2textRun14": "Subscribed",
+      "index/u2textRun15": "Subscribed",
+      "index/u2textRun16": "Subscribed",
+      "index/u2textRun17": "Subscribed",
+      "index/u2textRun18": "Subscribed",
+      "index/u2textRun19": "Subscribed",
+      "index/u2textRun20": "Subscribed",
+      "index/u2textRun21": "Location",
+      "index/u2textRun22": "Brooklyn NY, United States",
+      "index/u2textRun23": "ACT, Australia",
+      "index/u2textRun24": "Toronto ON, Canada",
+      "index/u2textRun25": "Brooklyn NY, United States",
+      "index/u2textRun26": "Southburg, United Kingdom",
+      "index/u2textRun27": "Queens NY, United States",
+      "index/u2textRun28": "ACT, Australia",
+      "index/u2textRun29": "Southburg, United Kingdom",
+      "index/u2textRun30": "Queens NY, United States",
+      "index/u2textRun31": "Orders",
+      "index/u2textRun32": "0 orders",
+      "index/u2textRun33": "0 orders",
+      "index/u2textRun34": "0 orders",
+      "index/u2textRun35": "0 orders",
+      "index/u2textRun36": "0 orders",
+      "index/u2textRun37": "0 orders",
+      "index/u2textRun38": "0 orders",
+      "index/u2textRun39": "0 orders",
+      "index/u2textRun40": "0 orders",
+      "index/u2textRun41": "Amount spent",
+      "index/u2textRun42": "$0.00",
+      "index/u2textRun43": "$0.00",
+      "index/u2textRun44": "$0.00",
+      "index/u2textRun45": "$0.00",
+      "index/u2textRun46": "$0.00",
+      "index/u2textRun47": "$0.00",
+      "index/u2textRun48": "$0.00",
+      "index/u2textRun49": "$0.00",
+      "index/u2textRun50": "$0.00",
+      "index/u2textRun51": "Showing 50 of 3,178 customers",
+      "u2main/u2textRun52": "Refine your segment",
+      "u2main/u2textRun53": "Show customers subscribed to marketing with no purchases",
+      "u2main/u2textRun54": "Run",
+      "u2main/u2textRun55": "3,178",
+      "u2main/u2textRun56": "customers",
+      "u2main/u2textRun57": "16%",
+      "u2main/u2textRun58": "of customer base",
+      "u2main/u2textRun59": "New segment"
+    },
+    "assetsMap": {
+      "u2bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u2bg.webp?v=1765255975",
+        "image": null,
+        "localUrl": "/assets/rive-external/943f803d9a-u2bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u2_12_10.riv"
+  },
+  {
+    "index": 4,
+    "productHandle": "sidekick-generates-theme-edits",
+    "sectionId": "sidekick",
+    "description": "A homepage for MVSE skate store, with 3 areas that are clickable. Clicking on any of the 3 areas brings up a Sidekick prompt to change either the hero, the collection, or the page layout.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/themes_12_9_v9.riv?v=1765320881",
+    "artboard": "themesMain",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": true,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "sidekickHero/sidekickThemesTextRun1": "Making changes...",
+      "sidekickHero/sidekickThemesTextRun2": "Make this two images side by side with centered type",
+      "sidekickHero/sidekickThemesTextRun3": "Ask for changes...",
+      "sidekickCopy/sidekickThemesTextRun4": "Making changes...",
+      "sidekickCopy/sidekickThemesTextRun5": "Make this type bolder and copy sound more renaissance inspired",
+      "sidekickCopy/sidekickThemesTextRun6": "Ask for changes...",
+      "sidekickCollection/sidekickThemesTextRun7": "Making changes...",
+      "sidekickCollection/sidekickThemesTextRun8": "Make this more editorial, dark background, featuring the deck collection",
+      "sidekickCollection/sidekickThemesTextRun9": "Ask for changes...",
+      "hero/sidekickThemesTextRun10": "Header",
+      "hero/sidekickThemesTextRun11": "Group",
+      "hero/sidekickThemesTextRun12": "SPRING 26 LOOKBOOK",
+      "hero/sidekickThemesTextRun13": "SHOP NOW",
+      "hero/sidekickThemesTextRun14": "SPRING XXVI LOOK BOOK",
+      "hero/sidekickThemesTextRun15": "SHOP THE COLLECTION",
+      "hero/sidekickThemesTextRun16": "Group",
+      "hero/sidekickThemesTextRun17": "SPRING XXVI LOOK BOOK",
+      "hero/sidekickThemesTextRun18": "SHOP THE COLLECTION",
+      "hero/sidekickThemesTextRun19": "SPRING 26 LOOKBOOK",
+      "hero/sidekickThemesTextRun20": "SHOP NOW",
+      "hero/sidekickThemesTextRun21": "ALL",
+      "hero/sidekickThemesTextRun22": "APPAREL",
+      "hero/sidekickThemesTextRun23": "SKATE",
+      "collection/sidekickThemesTextRun24": "Collection",
+      "collection/sidekickThemesTextRun25": "$81.00",
+      "collection/sidekickThemesTextRun26": "BOSQUET INVERSE SKATEBOARD DECK",
+      "collection/sidekickThemesTextRun27": "$81.00",
+      "collection/sidekickThemesTextRun28": "BOSQUET SKATE DECK",
+      "collection/sidekickThemesTextRun29": "$76.00",
+      "collection/sidekickThemesTextRun30": "YE OLE SKATE DECK",
+      "collection/sidekickThemesTextRun31": "$76.00",
+      "collection/sidekickThemesTextRun32": "Ye Ole Skateboard Deck",
+      "collection/sidekickThemesTextRun33": "$28.00",
+      "collection/sidekickThemesTextRun34": "MVSE Vergier Beanie",
+      "collection/sidekickThemesTextRun35": "$80.00",
+      "collection/sidekickThemesTextRun36": "Clandestino Skateboard Deck",
+      "collection/sidekickThemesTextRun37": "$48.00",
+      "collection/sidekickThemesTextRun38": "MVSE Forte Skateboard Wheels",
+      "collection/sidekickThemesTextRun39": "$80.00",
+      "collection/sidekickThemesTextRun40": "Freedom Skateboard Deck",
+      "collection/sidekickThemesTextRun41": "$50.00",
+      "collection/sidekickThemesTextRun42": "Hearthside Hoodie",
+      "collection/sidekickThemesTextRun43": "$80.00",
+      "collection/sidekickThemesTextRun44": "Emancipation Skateboard Deck",
+      "collection/sidekickThemesTextRun45": "$50.00",
+      "collection/sidekickThemesTextRun46": "MVSE Torre Skateboard Trucks",
+      "collection/sidekickThemesTextRun47": "$81.00",
+      "collection/sidekickThemesTextRun48": "Bosquet Skateboard Deck",
+      "collection/sidekickThemesTextRun49": "$48.00",
+      "collection/sidekickThemesTextRun50": "MVSE Libertee"
+    },
+    "assetsMap": {
+      "rive_theme_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_1-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/0186a21a56-rive_theme_1-desktop.webp"
+      },
+      "rive_theme_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_1-mobile.webp?v=1763746312",
+        "image": null,
+        "localUrl": "/assets/rive-external/38c778f07e-rive_theme_1-mobile.webp"
+      },
+      "rive_theme_10-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_10-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/6cf34c821f-rive_theme_10-desktop.webp"
+      },
+      "rive_theme_10-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_10-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/4bdb00631f-rive_theme_10-mobile.webp"
+      },
+      "rive_theme_11-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_11-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/43c973b9eb-rive_theme_11-desktop.webp"
+      },
+      "rive_theme_11-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_11-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/82eb6f9db9-rive_theme_11-mobile.webp"
+      },
+      "rive_theme_12-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_12-desktop.webp?v=1763746312",
+        "image": null,
+        "localUrl": "/assets/rive-external/a09536438d-rive_theme_12-desktop.webp"
+      },
+      "rive_theme_12-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_12-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/6b5a717dc5-rive_theme_12-mobile.webp"
+      },
+      "rive_theme_13-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_13-desktop.webp?v=1763746312",
+        "image": null,
+        "localUrl": "/assets/rive-external/fc94754de8-rive_theme_13-desktop.webp"
+      },
+      "rive_theme_13-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_13-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/5523f545e7-rive_theme_13-mobile.webp"
+      },
+      "rive_theme_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_2-desktop.webp?v=1763746312",
+        "image": null,
+        "localUrl": "/assets/rive-external/39311f4338-rive_theme_2-desktop.webp"
+      },
+      "rive_theme_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_2-mobile.webp?v=1763746312",
+        "image": null,
+        "localUrl": "/assets/rive-external/9535b1fb82-rive_theme_2-mobile.webp"
+      },
+      "rive_theme_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_3-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/29ea979f5b-rive_theme_3-desktop.webp"
+      },
+      "rive_theme_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_3-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/b48ccd2f83-rive_theme_3-mobile.webp"
+      },
+      "rive_theme_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_4-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/7d18eae558-rive_theme_4-desktop.webp"
+      },
+      "rive_theme_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_4-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/e1d7ccefec-rive_theme_4-mobile.webp"
+      },
+      "rive_theme_5-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_5-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/89dc28c0f6-rive_theme_5-desktop.webp"
+      },
+      "rive_theme_5-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_5-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/2c09cd24be-rive_theme_5-mobile.webp"
+      },
+      "rive_theme_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_6-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/22ddbc43bc-rive_theme_6-desktop.webp"
+      },
+      "rive_theme_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_6-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/a8e1b06102-rive_theme_6-mobile.webp"
+      },
+      "rive_theme_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_7-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/5f487035c1-rive_theme_7-desktop.webp"
+      },
+      "rive_theme_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_7-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/30cb28e803-rive_theme_7-mobile.webp"
+      },
+      "rive_theme_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_8-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/b77b81b960-rive_theme_8-desktop.webp"
+      },
+      "rive_theme_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_8-mobile.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/6a22d0a4dd-rive_theme_8-mobile.webp"
+      },
+      "rive_theme_9-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_9-desktop.webp?v=1763746311",
+        "image": null,
+        "localUrl": "/assets/rive-external/5f27dcc100-rive_theme_9-desktop.webp"
+      },
+      "rive_theme_9-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_9-mobile.webp?v=1763746312",
+        "image": null,
+        "localUrl": "/assets/rive-external/bcad0db081-rive_theme_9-mobile.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      },
+      "anton": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Anton.txt?v=1763713004",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/0f10fedf24-Anton.txt"
+      }
+    },
+    "src": "/assets/rive/themes_12_9_v9.riv"
+  },
+  {
+    "index": 5,
+    "productHandle": "sidekick-creates-studio-quality-photos",
+    "sectionId": "sidekick",
+    "description": "A photo of a model in a studio setting appears under a sidekick prompt asking to place the model outdoors in a skatepark. The photo then changes to match the prompt.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u8_12_10.riv?v=1765346174",
+    "artboard": "U8",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "main_vm",
+    "interactive": false,
+    "playsOnHover": true,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "u8textRun1": "Show this model sitting at a skatepark"
+    },
+    "assetsMap": {
+      "rive_u8_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_1-desktop.webp?v=1764657295",
+        "image": null,
+        "localUrl": "/assets/rive-external/f0b09b46cf-rive_u8_1-desktop.webp"
+      },
+      "rive_u8_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_1-mobile.webp?v=1764657295",
+        "image": null,
+        "localUrl": "/assets/rive-external/6a95fa6da8-rive_u8_1-mobile.webp"
+      },
+      "rive_u8_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_2-desktop.webp?v=1764657295",
+        "image": null,
+        "localUrl": "/assets/rive-external/3d0995746c-rive_u8_2-desktop.webp"
+      },
+      "rive_u8_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_2-mobile.webp?v=1764657295",
+        "image": null,
+        "localUrl": "/assets/rive-external/057e33745e-rive_u8_2-mobile.webp"
+      },
+      "u8bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u8bg.webp?v=1765261967",
+        "image": null,
+        "localUrl": "/assets/rive-external/21906960cb-u8bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u8_12_10.riv"
+  },
+  {
+    "index": 6,
+    "productHandle": "sidekick-edits-images-on-mobile",
+    "sectionId": "sidekick",
+    "description": "A photo of a skateboard on the floor beneath a Sidekick prompt to put the skateboard in someone's hand. The photo turns into a person holding the skateboard.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_12_9_v2.riv?v=1765313970",
+    "artboard": "U6",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "main_vm",
+    "interactive": false,
+    "playsOnHover": true,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "u6TextRun1": "Show the skateboard in someone's hand",
+      "u6TextRun2": "Describe your changes"
+    },
+    "assetsMap": {
+      "rive_u6_3": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u6_3.webp?v=1765261547",
+        "image": null,
+        "localUrl": "/assets/rive-external/07cab80c32-rive_u6_3.webp"
+      },
+      "u6_1_desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_1_desktop.webp?v=1765261547",
+        "image": null,
+        "localUrl": "/assets/rive-external/87eb710dbe-u6_1_desktop.webp"
+      },
+      "u6_1_mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_1_mobile.webp?v=1765261547",
+        "image": null,
+        "localUrl": "/assets/rive-external/1838e4f088-u6_1_mobile.webp"
+      },
+      "u6_2_desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_2_desktop.webp?v=1765261547",
+        "image": null,
+        "localUrl": "/assets/rive-external/65a203997c-u6_2_desktop.webp"
+      },
+      "u6_2_mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_2_mobile.webp?v=1765261547",
+        "image": null,
+        "localUrl": "/assets/rive-external/46e5885ead-u6_2_mobile.webp"
+      },
+      "u6bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u6bg.webp?v=1765261546",
+        "image": null,
+        "localUrl": "/assets/rive-external/8a93070674-u6bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u6_12_9_v2.riv"
+  },
+  {
+    "index": 7,
+    "productHandle": "sidekick-edits-emails",
+    "sectionId": "sidekick",
+    "description": "An email on a white background with plain font is shown under a Sidekick prompt asking to style the email to have a bold green type and a dark background. The email design is updated.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u16_12_9_v3.riv?v=1765314104",
+    "artboard": "Artboard",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": true,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "u16textRun1": "Give the email a dark background with bold green type",
+      "u16textRun2": "Draft",
+      "u16textRun3": "Shipping is on us",
+      "u16textRun4": "WHEREVER YOU ROLL,",
+      "u16textRun5": "SHIPPING'S FREE",
+      "u16textRun6": "WHEREVER YOU ROLL,",
+      "u16textRun7": "SHIPPING'S FREE",
+      "u16textRun8": "Use code",
+      "u16textRun9": " SHIPMEFREE ",
+      "u16textRun10": "at checkout on",
+      "u16textRun11": "any order over $50 for free shipping.",
+      "u16textRun12": "Shop now",
+      "u16textRun13": "From",
+      "u16textRun14": "info@mvseskate.com",
+      "u16textRun15": "Unlock free shipping on any order over $50",
+      "u16textRun16": "Preview",
+      "u16textRun17": "Shipping is on us",
+      "u16textRun18": "Subject",
+      "u16textRun19": "All subscribers",
+      "u16textRun20": "To"
+    },
+    "assetsMap": {
+      "u16bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u16bg.webp?v=1765255342",
+        "image": null,
+        "localUrl": "/assets/rive-external/b2b91fa90a-u16bg.webp"
+      },
+      "u16_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u16_1-desktop.webp?v=1765308060",
+        "image": null,
+        "localUrl": "/assets/rive-external/1f954b57d7-u16_1-desktop.webp"
+      },
+      "u16_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u16_1-mobile.webp?v=1765308060",
+        "image": null,
+        "localUrl": "/assets/rive-external/1e7804ef67-u16_1-mobile.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      },
+      "anton": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Anton.txt?v=1763713004",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/0f10fedf24-Anton.txt"
+      }
+    },
+    "src": "/assets/rive/u16_12_9_v3.riv"
+  },
+  {
+    "index": 8,
+    "productHandle": "sidekick-multi-step-task-completion",
+    "sectionId": "sidekick",
+    "description": "Three merchant products appear under a Sidekick prompt saying 'Create a bestsellers collection with a discount'. The three products are added to a bestsellers collection with a 15% discount.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u15_12_9_v2.riv?v=1765314036",
+    "artboard": "u15main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "vm_main",
+    "interactive": true,
+    "playsOnHover": true,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "u15main/riveU15textRun1": "Create a bestsellers collection with a discount",
+      "u15main/riveU15textRun2": "To-dos",
+      "u15main/riveU15textRun3": "Create a discount for Best Sellers",
+      "u15main/riveU15textRun4": "Create a Best Sellers collection",
+      "clothes/riveU15textRun5": "Discover our most popular products. This collection features our top-selling skateboard decks and accessories that customers love most.",
+      "clothes/riveU15textRun6": "Best Sellers",
+      "clothes/riveU15textRun7": "Products",
+      "clothes/riveU15textRun8": "Sort :",
+      "clothes/riveU15textRun9": "Product title A-Z",
+      "clothes/riveU15textRun10": "Florentine Rose Long-sleeve",
+      "clothes/riveU15textRun11": "Active",
+      "clothes/riveU15textRun12": "Rose 5-pane",
+      "clothes/riveU15textRun13": "Active",
+      "clothes/riveU15textRun14": "Collection type",
+      "clothes/riveU15textRun15": "Manual",
+      "clothes/riveU15textRun16": "Add products to this collection one by one.\nLearn more about",
+      "clothes/riveU15textRun17": "manual collections",
+      "clothes/riveU15textRun18": ".",
+      "clothes/riveU15textRun19": "Smart",
+      "clothes/riveU15textRun20": "Existing and future products that match the conditions you set will automatically be added to this collection. Learn more about",
+      "clothes/riveU15textRun21": "smart collections",
+      "clothes/riveU15textRun22": "Description",
+      "clothes/riveU15textRun23": "Title",
+      "clothes/riveU15textRun24": "Add collection",
+      "method/riveU15textRun25": "Discount code",
+      "method/riveU15textRun26": "Automatic discount",
+      "method/riveU15textRun27": "Customers must enter this code at checkout.",
+      "method/riveU15textRun28": "BEST15",
+      "method/riveU15textRun29": "Generate random code",
+      "method/riveU15textRun30": "Discount code",
+      "method/riveU15textRun31": "Method",
+      "method/riveU15textRun32": "Product discount",
+      "method/riveU15textRun33": "Amount off products",
+      "discountValue/riveU15textRun34": "6 products",
+      "discountValue/riveU15textRun35": "Best Sellers",
+      "discountValue/riveU15textRun36": "Browse",
+      "discountValue/riveU15textRun37": "Search collections",
+      "discountValue/riveU15textRun38": "Purchase type",
+      "discountValue/riveU15textRun39": "One-time purchase",
+      "discountValue/riveU15textRun40": "Applies to",
+      "discountValue/riveU15textRun41": "Specific collections",
+      "discountValue/riveU15textRun42": "15",
+      "discountValue/riveU15textRun43": "Percentage",
+      "discountValue/riveU15textRun44": "Discount value",
+      "discountDetails/riveU15textRun45": "All customers",
+      "discountDetails/riveU15textRun46": "For Online Store",
+      "discountDetails/riveU15textRun47": "15% off products",
+      "discountDetails/riveU15textRun48": "Applied to one-time purchases",
+      "discountDetails/riveU15textRun49": "No minimum purchase requirement",
+      "discountDetails/riveU15textRun50": "No usage limits",
+      "discountDetails/riveU15textRun51": "Can't combine with other discounts",
+      "discountDetails/riveU15textRun52": "•",
+      "discountDetails/riveU15textRun53": "Active from today",
+      "discountDetails/riveU15textRun54": "Active",
+      "discountDetails/riveU15textRun55": "Code",
+      "discountDetails/riveU15textRun56": "Details",
+      "discountDetails/riveU15textRun57": "Performance",
+      "discountDetails/riveU15textRun58": "Product discount",
+      "discountDetails/riveU15textRun59": "Amount off products",
+      "discountDetails/riveU15textRun60": "Type",
+      "discountDetails/riveU15textRun61": "BEST15",
+      "discountDetails/riveU15textRun62": "•  0 used"
+    },
+    "assetsMap": {
+      "rive_u15_10": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_10.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/728a564807-rive_U15_10.webp"
+      },
+      "rive_u15_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_3-desktop.webp?v=1765250435",
+        "image": null,
+        "localUrl": "/assets/rive-external/5f57e31acd-rive_U15_3-desktop.webp"
+      },
+      "rive_u15_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_3-mobile.webp?v=1765250435",
+        "image": null,
+        "localUrl": "/assets/rive-external/230eda2a9a-rive_U15_3-mobile.webp"
+      },
+      "rive_u15_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_4-desktop.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/9cb76810dd-rive_U15_4-desktop.webp"
+      },
+      "rive_u15_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_4-mobile.webp?v=1765250435",
+        "image": null,
+        "localUrl": "/assets/rive-external/fe44859a06-rive_U15_4-mobile.webp"
+      },
+      "rive_u15_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_6-desktop.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/93a2ef7f8b-rive_U15_6-desktop.webp"
+      },
+      "rive_u15_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_6-mobile.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/d7df7a568e-rive_U15_6-mobile.webp"
+      },
+      "rive_u15_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_7-desktop.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/2acc355273-rive_U15_7-desktop.webp"
+      },
+      "rive_u15_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_7-mobile.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/63c208dbf2-rive_U15_7-mobile.webp"
+      },
+      "rive_u15_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_8-desktop.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/c36dcce0df-rive_U15_8-desktop.webp"
+      },
+      "rive_u15_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_8-mobile.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/dbca479599-rive_U15_8-mobile.webp"
+      },
+      "rive_u15_9": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_9.webp?v=1765250435",
+        "image": null,
+        "localUrl": "/assets/rive-external/bbcbb31def-rive_U15_9.webp"
+      },
+      "u15bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u15bg.webp?v=1765250436",
+        "image": null,
+        "localUrl": "/assets/rive-external/f2a50b67d4-u15bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u15_12_9_v2.riv"
+  },
+  {
+    "index": 9,
+    "productHandle": "sidekick-voice-chat-on-mobile",
+    "sectionId": "sidekick",
+    "description": "A Sidekick logo in a mobile device pulses as it speaks",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u5_12_9.riv?v=1765262775",
+    "artboard": "u5main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": true,
+    "playsOnHover": true,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {},
+    "assetsMap": {
+      "rive_u5_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u5_1-desktop.webp?v=1764658733",
+        "image": null,
+        "localUrl": "/assets/rive-external/1b8233f7dc-rive_u5_1-desktop.webp"
+      },
+      "rive_u5_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u5_1-mobile.webp?v=1764658733",
+        "image": null,
+        "localUrl": "/assets/rive-external/3a84efe809-rive_u5_1-mobile.webp"
+      },
+      "u5bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u5bg.webp?v=1765262801",
+        "image": null,
+        "localUrl": "/assets/rive-external/81182aaccc-u5bg.webp"
+      }
+    },
+    "src": "/assets/rive/u5_12_9.riv"
+  },
+  {
+    "index": 10,
+    "productHandle": "shopify-agentic-storefronts",
+    "sectionId": "agentic",
+    "description": "Someone asks ChatGPT for a retro beginner's skateboard. ChatGPT presents a few options, and the user checks out in a module without leaving ChatGPT.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/chatgpt_12_10_v5.riv?v=1765374002",
+    "artboard": "main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "chatGPT/riveGPTtextRun1": "I'm looking for a skateboard with a retro design that's good for beginners. Any recs?",
+      "chatGPT/riveGPTtextRun2": "Absolutely! Here are some popular skateboards that feature retro designs and are great for those new to skating:",
+      "chatGPT/riveGPTtextRun3": "Freedom Skateboard Deck",
+      "chatGPT/riveGPTtextRun4": "$80.00",
+      "chatGPT/riveGPTtextRun5": "MVSE",
+      "chatGPT/riveGPTtextRun6": "First Ollie Skateboard",
+      "chatGPT/riveGPTtextRun7": "$95.00",
+      "chatGPT/riveGPTtextRun8": "Open Sport",
+      "productPage/riveGPTtextRun9": "Freedom Skateboard Deck",
+      "productPage/riveGPTtextRun10": "Free delivery, Free 30-day returns",
+      "productPage/riveGPTtextRun11": "$80.00",
+      "productPage/riveGPTtextRun12": "Buy",
+      "productPage/riveGPTtextRun13": "What people are saying",
+      "productPage/riveGPTtextRun14": "The Freedom Skateboard Deck receives highly positive reviews, with many users praising its design, versatility, and performance. It is described as incredibly durable, sturdy, and simple, making it suitable for both new skaters and those with experience.",
+      "checkout/riveGPTtextRun15": "Freedom Skateboard Deck",
+      "checkout/riveGPTtextRun16": "Quantity: 1",
+      "checkout/riveGPTtextRun17": "Carlos Benitez",
+      "checkout/riveGPTtextRun18": "742 Evergreen Terrace, Fairview, NY 10453",
+      "checkout/riveGPTtextRun19": "FedEx",
+      "checkout/riveGPTtextRun20": "Free • 3 business days",
+      "checkout/riveGPTtextRun21": "Pay MVSE",
+      "checkout/riveGPTtextRun22": "Total with estimated tax",
+      "checkout/riveGPTtextRun23": "$85.80",
+      "checkout/riveGPTtextRun24": "Pay MVSE",
+      "buyWidget/riveGPTtextRun25": "Purchase complete",
+      "buyWidget/riveGPTtextRun26": "Freedom Skateboard Deck",
+      "buyWidget/riveGPTtextRun27": "Green",
+      "buyWidget/riveGPTtextRun28": "Quantity: 1",
+      "buyWidget/riveGPTtextRun29": "Estimated delivery",
+      "buyWidget/riveGPTtextRun30": "Friday, December 20",
+      "buyWidget/riveGPTtextRun31": "Sold by",
+      "buyWidget/riveGPTtextRun32": "MVSE",
+      "buyWidget/riveGPTtextRun33": "Paid MVSE",
+      "buyWidget/riveGPTtextRun34": "$85.80",
+      "buyWidget/riveGPTtextRun35": "View details",
+      "buyWidget/riveGPTtextRun36": "MVSE confirmed your order! You'll get a confirmation email from MVSE soon. If you have questions, follow up with MVSE directly. You can view your order details anytime in Settings.",
+      "chatGPT/riveGPTtextRun37": "I'm looking for a skateboard with a retro design that's good for beginners. Any recs?",
+      "chatGPT/riveGPTtextRun38": "Ask anything"
+    },
+    "assetsMap": {
+      "xxl_chatgpt_handdevice-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_handdevice-desktop.webp?v=1765220150",
+        "image": null,
+        "localUrl": "/assets/rive-external/1d4864f8a0-xxl_chatgpt_handdevice-desktop.webp"
+      },
+      "xxl_chatgpt_handdevice-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_handdevice-mobile.webp?v=1765220157",
+        "image": null,
+        "localUrl": "/assets/rive-external/544cec598e-xxl_chatgpt_handdevice-mobile.webp"
+      },
+      "xxl_chatgpt_thumb-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_thumb-desktop.webp?v=1764978607",
+        "image": null,
+        "localUrl": "/assets/rive-external/4af4c84720-xxl_chatgpt_thumb-desktop.webp"
+      },
+      "xxl_chatgpt_thumb-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_thumb-mobile.webp?v=1764978620",
+        "image": null,
+        "localUrl": "/assets/rive-external/1c52d17fa7-xxl_chatgpt_thumb-mobile.webp"
+      },
+      "xxl_gpt_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_gpt_1-desktop.webp?v=1763052306",
+        "image": null,
+        "localUrl": "/assets/rive-external/1a09173d77-xxl_gpt_1-desktop.webp"
+      },
+      "xxl_gpt_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_gpt_1-mobile.webp?v=1763052306",
+        "image": null,
+        "localUrl": "/assets/rive-external/7804d2f825-xxl_gpt_1-mobile.webp"
+      },
+      "iphonebezelnoisland-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/iphonebezelnoisland-mobile.webp?v=1765345813",
+        "image": null,
+        "localUrl": "/assets/rive-external/d040ddf2b6-iphonebezelnoisland-mobile.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/chatgpt_12_10_v5.riv"
+  },
+  {
+    "index": 11,
+    "productHandle": "shopify-simgym-app",
+    "sectionId": "online",
+    "description": "A simulation test is run by AI changing the hero on the page, and then feedback is shared. ",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/sim_gym_12_9.riv?v=1765318574",
+    "artboard": "simGymMain",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "riveSimGymTextRun1": "The product categories overlap with the same item appearing in multiple places.",
+      "riveSimGymTextRun2": "I found exactly what I was looking for within seconds using the search bar!",
+      "riveSimGymTextRun3": "The Shop Pay button being so visible and easy to use was great.",
+      "riveSimGymTextRun4": "Finding the \"About us\" page was difficult, consider making it easier to find.",
+      "riveSimGymTextRun5": "The trust badges in checkout reassured me that my payment info is safe.",
+      "riveSimGymTextRun6": "I loved seeing actual customer photos in the reviews section.",
+      "riveSimGymTextRun7": "I couldn't find any information about the return policy, which made me hesitant.",
+      "riveSimGymTextRun8": "Moving around the site was much easier than I expected!",
+      "riveSimGymTextRun9": "I appreciate that the mobile menu doesn't require a lot of scrolling to find what I need.",
+      "riveSimGymTextRun10": "The text was tiny so I had to zoom in, and then buttons were hard to press accurately.",
+      "riveSimGymTextRun11": "New simulation",
+      "riveSimGymTextRun12": "Hero collection changes",
+      "riveSimGymTextRun13": "Name",
+      "riveSimGymTextRun14": "Start simulation",
+      "riveSimGymTextRun15": "Horizon 3.0.0",
+      "riveSimGymTextRun16": "Pushing Boundaries Hero",
+      "riveSimGymTextRun17": "Horizon 3.1.0",
+      "riveSimGymTextRun18": "Art in Motion Hero"
+    },
+    "assetsMap": {
+      "rive_simgym_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_1-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/d15375e71e-rive_simGym_1-desktop.webp"
+      },
+      "rive_simgym_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_1-mobile.webp?v=1764178733",
+        "image": null,
+        "localUrl": "/assets/rive-external/9d0fa952d8-rive_simGym_1-mobile.webp"
+      },
+      "rive_simgym_10-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_10-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/331d681a3f-rive_simGym_10-desktop.webp"
+      },
+      "rive_simgym_10-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_10-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/c61b9cccc7-rive_simGym_10-mobile.webp"
+      },
+      "rive_simgym_11-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_11-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/a079d49528-rive_simGym_11-desktop.webp"
+      },
+      "rive_simgym_11-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_11-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/037d2ffa7a-rive_simGym_11-mobile.webp"
+      },
+      "rive_simgym_12-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_12-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/55f9a5abc6-rive_simGym_12-desktop.webp"
+      },
+      "rive_simgym_12-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_12-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/5f7cac0413-rive_simGym_12-mobile.webp"
+      },
+      "rive_simgym_13-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_13-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/1969b64bae-rive_simGym_13-desktop.webp"
+      },
+      "rive_simgym_13-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_13-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/1a781a7385-rive_simGym_13-mobile.webp"
+      },
+      "rive_simgym_14-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_14-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/bfbcc7f153-rive_simGym_14-desktop.webp"
+      },
+      "rive_simgym_14-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_14-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/23985527f4-rive_simGym_14-mobile.webp"
+      },
+      "rive_simgym_15-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_15-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/9914b15aa4-rive_simGym_15-desktop.webp"
+      },
+      "rive_simgym_15-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_15-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/14a82b52ab-rive_simGym_15-mobile.webp"
+      },
+      "rive_simgym_16-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_16-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/cc5a917f8b-rive_simGym_16-desktop.webp"
+      },
+      "rive_simgym_16-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_16-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/dbbce8ec28-rive_simGym_16-mobile.webp"
+      },
+      "rive_simgym_17-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_17-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/ec574e9a34-rive_simGym_17-desktop.webp"
+      },
+      "rive_simgym_17-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_17-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/a9ad91c2e1-rive_simGym_17-mobile.webp"
+      },
+      "rive_simgym_18-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_18-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/98faedbfb7-rive_simGym_18-desktop.webp"
+      },
+      "rive_simgym_18-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_18-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/82dc68a35a-rive_simGym_18-mobile.webp"
+      },
+      "rive_simgym_19-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_19-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/ce1536ea48-rive_simGym_19-desktop.webp"
+      },
+      "rive_simgym_19-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_19-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/12485f276c-rive_simGym_19-mobile.webp"
+      },
+      "rive_simgym_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_2-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/9ea75c3975-rive_simGym_2-desktop.webp"
+      },
+      "rive_simgym_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_2-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/93245a47ef-rive_simGym_2-mobile.webp"
+      },
+      "rive_simgym_20-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_20-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/2673615264-rive_simGym_20-desktop.webp"
+      },
+      "rive_simgym_20-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_20-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/4783b81994-rive_simGym_20-mobile.webp"
+      },
+      "rive_simgym_21-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_21-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/ab2db8481f-rive_simGym_21-desktop.webp"
+      },
+      "rive_simgym_21-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_21-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/8a484a5f58-rive_simGym_21-mobile.webp"
+      },
+      "rive_simgym_22-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_22-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/d8bd85f925-rive_simGym_22-desktop.webp"
+      },
+      "rive_simgym_22-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_22-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/25e42274f2-rive_simGym_22-mobile.webp"
+      },
+      "rive_simgym_25-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_25-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/b84f9eed93-rive_simGym_25-desktop.webp"
+      },
+      "rive_simgym_25-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_25-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/48b1034b84-rive_simGym_25-mobile.webp"
+      },
+      "rive_simgym_26-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_26-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/2d94d6fd1b-rive_simGym_26-desktop.webp"
+      },
+      "rive_simgym_26-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_26-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/0440aedb6d-rive_simGym_26-mobile.webp"
+      },
+      "rive_simgym_27-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_27-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/fd9a50c8d6-rive_simGym_27-desktop.webp"
+      },
+      "rive_simgym_27-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_27-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/39cf94e83c-rive_simGym_27-mobile.webp"
+      },
+      "rive_simgym_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_3-desktop.webp?v=1764178733",
+        "image": null,
+        "localUrl": "/assets/rive-external/f30fc4ff66-rive_simGym_3-desktop.webp"
+      },
+      "rive_simgym_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_3-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/0cac6cf043-rive_simGym_3-mobile.webp"
+      },
+      "rive_simgym_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_4-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/77026ed364-rive_simGym_4-desktop.webp"
+      },
+      "rive_simgym_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_4-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/a2a52e2490-rive_simGym_4-mobile.webp"
+      },
+      "rive_simgym_5-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_5-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/f35d6893cc-rive_simGym_5-desktop.webp"
+      },
+      "rive_simgym_5-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_5-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/620394b918-rive_simGym_5-mobile.webp"
+      },
+      "rive_simgym_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_6-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/d59eafadd1-rive_simGym_6-desktop.webp"
+      },
+      "rive_simgym_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_6-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/f50f28ce3a-rive_simGym_6-mobile.webp"
+      },
+      "rive_simgym_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_7-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/58ea3bd3b5-rive_simGym_7-desktop.webp"
+      },
+      "rive_simgym_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_7-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/4020ee2eb7-rive_simGym_7-mobile.webp"
+      },
+      "rive_simgym_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_8-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/0f90163bfe-rive_simGym_8-desktop.webp"
+      },
+      "rive_simgym_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_8-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/c4e060a900-rive_simGym_8-mobile.webp"
+      },
+      "rive_simgym_9-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_9-desktop.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/a68a11f2c1-rive_simGym_9-desktop.webp"
+      },
+      "rive_simgym_9-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_9-mobile.webp?v=1764178734",
+        "image": null,
+        "localUrl": "/assets/rive-external/1da6b570ac-rive_simGym_9-mobile.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/sim_gym_12_9.riv"
+  },
+  {
+    "index": 12,
+    "productHandle": "pos-customization-in-one-editor",
+    "sectionId": "retail",
+    "description": "On the POS, the smart grid, lock screen, receipt, and customer display are being edited.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u50_12_8.riv?v=1765225794",
+    "artboard": "u50mainArtboard",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "customerView2/u50textRun1": "Welcome Miles",
+      "customerView2/u50textRun2": "MVSE Vergier Beanie",
+      "customerView2/u50textRun3": "One size",
+      "customerView2/u50textRun4": "$28.00",
+      "customerView2/u50textRun5": "Torre Skateboard trucks",
+      "customerView2/u50textRun6": "149mm",
+      "customerView2/u50textRun7": "$60.00",
+      "customerView2/u50textRun8": "Clandestino Deck",
+      "customerView2/u50textRun9": "8.5",
+      "customerView2/u50textRun10": "$80.00",
+      "receipt/u50textRun11": "$80.00",
+      "receipt/u50textRun12": "$80.00",
+      "receipt/u50textRun13": "$80.00",
+      "receipt/u50textRun14": "$80.00",
+      "receipt/u50textRun15": "$80.00",
+      "receipt/u50textRun16": "Price",
+      "receipt/u50textRun17": "Cash",
+      "receipt/u50textRun18": "8.5",
+      "receipt/u50textRun19": "TOTAL",
+      "receipt/u50textRun20": "SUBTOTAL",
+      "receipt/u50textRun21": "Clandestino Deck",
+      "receipt/u50textRun22": "Items",
+      "receipt/u50textRun23": "TOTAL",
+      "smartGrid2/u50textRun24": "Search",
+      "smartGrid2/u50textRun25": "Shirt",
+      "smartGrid2/u50textRun26": "Torre Skateboard trucks",
+      "smartGrid2/u50textRun27": "$50.00",
+      "smartGrid2/u50textRun28": "Signorello sneakers",
+      "smartGrid2/u50textRun29": "$72.00",
+      "smartGrid2/u50textRun30": "Add custom sale",
+      "smartGrid2/u50textRun31": "Apply discount",
+      "smartGrid2/u50textRun32": "Ship all items",
+      "smartGrid2/u50textRun33": "1 item",
+      "smartGrid2/u50textRun34": "Attribute sale",
+      "smartGrid2/u50textRun35": "Polly Auyeung",
+      "smartGrid2/u50textRun36": "Load draft order",
+      "smartGrid2/u50textRun37": "Email to customer",
+      "smartGrid2/u50textRun38": "Add gift card",
+      "smartGrid2/u50textRun39": "Add tile",
+      "u50mainArtboard/u50textRun40": "In store experience",
+      "u50mainArtboard/u50textRun41": "Checkout",
+      "u50mainArtboard/u50textRun42": "Preview options",
+      "u50mainArtboard/u50textRun43": "Smart grid template",
+      "u50mainArtboard/u50textRun44": "Editing",
+      "u50mainArtboard/u50textRun45": "Cashier basic",
+      "u50mainArtboard/u50textRun46": "Assigned to devices at 5 locations",
+      "u50mainArtboard/u50textRun47": "Page 1",
+      "u50mainArtboard/u50textRun48": "Product",
+      "u50mainArtboard/u50textRun49": "Collection",
+      "u50mainArtboard/u50textRun50": "Add custom sale",
+      "u50mainArtboard/u50textRun51": "Apply discount",
+      "u50mainArtboard/u50textRun52": "Ship all items",
+      "u50mainArtboard/u50textRun53": "Attribute sale",
+      "u50mainArtboard/u50textRun54": "Load draft order",
+      "u50mainArtboard/u50textRun55": "Email to customer",
+      "u50mainArtboard/u50textRun56": "Add gift card",
+      "u50mainArtboard/u50textRun57": "Add tile",
+      "u50mainArtboard/u50textRun58": "Page 2",
+      "u50mainArtboard/u50textRun59": "Product",
+      "u50mainArtboard/u50textRun60": "Product",
+      "u50mainArtboard/u50textRun61": "Collection",
+      "u50mainArtboard/u50textRun62": "Collection",
+      "u50mainArtboard/u50textRun63": "Add tile",
+      "u50mainArtboard/u50textRun64": "Settings",
+      "u50mainArtboard/u50textRun65": "Assigned to devices at all locations",
+      "u50mainArtboard/u50textRun66": "Cart",
+      "u50mainArtboard/u50textRun67": "Show product images",
+      "u50mainArtboard/u50textRun68": "Receipt",
+      "u50mainArtboard/u50textRun69": "No customizable settings available",
+      "u50mainArtboard/u50textRun70": "Thank you",
+      "u50mainArtboard/u50textRun71": "Message",
+      "u50mainArtboard/u50textRun72": "Thank you!",
+      "u50mainArtboard/u50textRun73": "Theme",
+      "u50mainArtboard/u50textRun74": "Primary color",
+      "u50mainArtboard/u50textRun75": "#FCFCFD",
+      "u50mainArtboard/u50textRun76": "Used as background color and changes the look and feel of your display",
+      "u50mainArtboard/u50textRun77": "Accent color",
+      "u50mainArtboard/u50textRun78": "#007AFF",
+      "u50mainArtboard/u50textRun79": "Used for primary buttons and highlights",
+      "u50mainArtboard/u50textRun80": "Settings",
+      "u50mainArtboard/u50textRun81": "Assigned to devices at all locations",
+      "u50mainArtboard/u50textRun82": "Logo",
+      "u50mainArtboard/u50textRun83": "Change",
+      "u50mainArtboard/u50textRun84": "Remove",
+      "u50mainArtboard/u50textRun85": "Image: Transparent SVG, PNG or WEBP\nRecommended width: 512 pixels minimum",
+      "u50mainArtboard/u50textRun86": "Background",
+      "u50mainArtboard/u50textRun87": "Media",
+      "u50mainArtboard/u50textRun88": "Color",
+      "u50mainArtboard/u50textRun89": "Change",
+      "u50mainArtboard/u50textRun90": "Remove",
+      "u50mainArtboard/u50textRun91": "Image: WEBP, PNG, JPG, or GIF. File size must be under 15 MB.\nRecommended: 1980 × 1020 pixels",
+      "u50mainArtboard/u50textRun92": "Printed receipt",
+      "u50mainArtboard/u50textRun93": "Location",
+      "u50mainArtboard/u50textRun94": "Walnut Street",
+      "u50mainArtboard/u50textRun95": "Advanced customizations for printed receipts are available with POS Pro.",
+      "u50mainArtboard/u50textRun96": "Upgrade",
+      "u50mainArtboard/u50textRun97": "Header",
+      "u50mainArtboard/u50textRun98": "Transaction summary",
+      "u50mainArtboard/u50textRun99": "Footer",
+      "u50mainArtboard/u50textRun100": "Smart grid",
+      "u50mainArtboard/u50textRun101": "Lock screen",
+      "u50mainArtboard/u50textRun102": "Printed receipts",
+      "u50mainArtboard/u50textRun103": "Customer display"
+    },
+    "assetsMap": {
+      "rive_u50_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_1-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/068bf16f79-rive_u50_1-desktop.webp"
+      },
+      "rive_u50_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_2-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/81a6a0d4a2-rive_u50_2-desktop.webp"
+      },
+      "rive_u50_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_3-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/df7c255f73-rive_u50_3-desktop.webp"
+      },
+      "rive_u50_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_4-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/57c005fe4c-rive_u50_4-desktop.webp"
+      },
+      "rive_u50_5-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_5-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/f88dce222b-rive_u50_5-desktop.webp"
+      },
+      "rive_u50_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_6-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/6ff337c32e-rive_u50_6-desktop.webp"
+      },
+      "rive_u50_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_7-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/f3b3187d85-rive_u50_7-desktop.webp"
+      },
+      "rive_u50_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_8-desktop.webp?v=1763747275",
+        "image": null,
+        "localUrl": "/assets/rive-external/1d53566773-rive_u50_8-desktop.webp"
+      },
+      "rive_u50_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_1-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/60bed21d1d-rive_u50_1-mobile.webp"
+      },
+      "rive_u50_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_2-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/0370f1b992-rive_u50_2-mobile.webp"
+      },
+      "rive_u50_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_3-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/306ffb3e14-rive_u50_3-mobile.webp"
+      },
+      "rive_u50_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_4-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/02590c037f-rive_u50_4-mobile.webp"
+      },
+      "rive_u50_5-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_5-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/a0a1bb8e3a-rive_u50_5-mobile.webp"
+      },
+      "rive_u50_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_6-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/e362ca17a7-rive_u50_6-mobile.webp"
+      },
+      "rive_u50_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_7-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/6106668ddc-rive_u50_7-mobile.webp"
+      },
+      "rive_u50_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_8-mobile.webp?v=1763747279",
+        "image": null,
+        "localUrl": "/assets/rive-external/9e3000ac25-rive_u50_8-mobile.webp"
+      },
+      "u50bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u50bg.webp?v=1764649965",
+        "image": null,
+        "localUrl": "/assets/rive-external/0692fbf666-u50bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u50_12_8.riv"
+  },
+  {
+    "index": 13,
+    "productHandle": "shop-campaigns-expands-to-the-online-store",
+    "sectionId": "marketing",
+    "description": "",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u113_12_9.riv?v=1765314224",
+    "artboard": "u113main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": null,
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "u113main/u113textRun1": "$80.00",
+      "u113main/u113textRun2": "Freedom Skateboard Deck",
+      "u113main/u113textRun3": "Sales channels",
+      "u113main/u113textRun4": "Settings",
+      "u113main/u113textRun5": "Publishing",
+      "u113main/u113textRun6": "Advertising",
+      "u113main/u113textRun7": "Promise",
+      "u113main/u113textRun8": "Reviews",
+      "u113main/u113textRun9": "Catalog",
+      "u113main/u113textRun10": "Shop",
+      "u113main/u113textRun11": "MVSE SKATE",
+      "u113main/u113textRun12": "$80.00",
+      "u113main/u113textRun13": "Freedom Skateboard Deck",
+      "u113main/u113textRun14": "Best Sellers",
+      "u113main/u113textRun15": "Thank you, Jordan!",
+      "u113main/u113textRun16": "Picked for you from brands you’ll love",
+      "u113main/u113textRun17": "Continue shopping",
+      "searchResultsScreen/u113textRun18": "Search results",
+      "searchResultsScreen/u113textRun19": "Skateboard",
+      "searchResultsScreen/u113textRun20": "Filter:",
+      "searchResultsScreen/u113textRun21": "Availability",
+      "searchResultsScreen/u113textRun22": "Price",
+      "searchResultsScreen/u113textRun23": "Sort by:",
+      "searchResultsScreen/u113textRun24": "Best selling",
+      "searchResultsScreen/u113textRun25": "27 results"
+    },
+    "assetsMap": {
+      "rive_u113_1": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_1.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/884041c341-rive_U113_1.webp"
+      },
+      "rive_u113_2": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_2.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/a13edd1779-rive_U113_2.webp"
+      },
+      "rive_u113_3": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_3.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/1f5022405b-rive_U113_3.webp"
+      },
+      "rive_u113_4": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_4.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/fd0b098b6d-rive_U113_4.webp"
+      },
+      "rive_u113_5": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_5.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/82088653b6-rive_U113_5.webp"
+      },
+      "rive_u113_6": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_6.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/8362859fe9-rive_U113_6.webp"
+      },
+      "rive_u113_7": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_7.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/69b651cb64-rive_U113_7.webp"
+      },
+      "rive_u113_8": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_8.webp?v=1765239092",
+        "image": null,
+        "localUrl": "/assets/rive-external/97a046fa5f-rive_U113_8.webp"
+      },
+      "u113bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u113bg.webp?v=1765239091",
+        "image": null,
+        "localUrl": "/assets/rive-external/7b9a253fa4-u113bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u113_12_9.riv"
+  },
+  {
+    "index": 14,
+    "productHandle": "personalized-shop-pay-button",
+    "sectionId": "checkout",
+    "description": "A Buy with Shop button is shown and it expands to include the Mastercard logo and the last for digits of a card.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u95_12_1_v5.riv?v=1764633628",
+    "artboard": "u95mainArtboard",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": null,
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "buywith/u95textRun1": "Buy with"
+    },
+    "assetsMap": {
+      "u95bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u95bg.webp?v=1764628033",
+        "image": null,
+        "localUrl": "/assets/rive-external/09627ecf1b-u95bg.webp"
+      },
+      "gt-standard-m-standard-semibold": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/GT-Standard-M-Standard-Semibold.txt?v=1762965564",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/38ded3c75b-GT-Standard-M-Standard-Semibold.txt"
+      }
+    },
+    "src": "/assets/rive/u95_12_1_v5.riv"
+  },
+  {
+    "index": 15,
+    "productHandle": "quick-sale-in-the-shopify-mobile-app",
+    "sectionId": "operations",
+    "description": "The quick sale button is tapped with three products selected, a checkout screen appears, and once the user confirms, a receipt of the transaction is shown.",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u132_12_9_v10.riv?v=1765328188",
+    "artboard": "u132main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": true,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "quickSaleButton/u132textRun1": "Quick sale",
+      "success/u132textRun2": "Done",
+      "success/u132textRun3": "Order complete",
+      "success/u132textRun4": "Order summary",
+      "success/u132textRun5": "Paid",
+      "success/u132textRun6": "Paid",
+      "success/u132textRun7": "Cash",
+      "success/u132textRun8": "$220.32",
+      "success/u132textRun9": "Order number",
+      "success/u132textRun10": "Order placed",
+      "success/u132textRun11": "December 10, 2025 at 7:45 AM",
+      "success/u132textRun12": "Note",
+      "receipt/u132textRun13": "Email receipt",
+      "receipt/u132textRun14": "Text receipt",
+      "receipt/u132textRun15": "Items",
+      "receipt/u132textRun16": "Price",
+      "receipt/u132textRun17": "Aquae Skateboard Deck",
+      "receipt/u132textRun18": "$80.00",
+      "receipt/u132textRun19": "Arcanum Skateboard Wheels",
+      "receipt/u132textRun20": "(2 x $48.00)",
+      "receipt/u132textRun21": "$96.00",
+      "receipt/u132textRun22": "MVSE Knit Beanie",
+      "receipt/u132textRun23": "$28.00",
+      "receipt/u132textRun24": "SUBTOTAL",
+      "receipt/u132textRun25": "$204.00",
+      "receipt/u132textRun26": "TAX (8%)",
+      "receipt/u132textRun27": "$16.32",
+      "receipt/u132textRun28": "TOTAL",
+      "receipt/u132textRun29": "$220.32",
+      "paymentDrawer/u132textRun30": "$220.32",
+      "paymentDrawer/u132textRun31": "Tap to Pay on iPhone",
+      "paymentDrawer/u132textRun32": "Cash",
+      "cart/u132textRun33": "Quick sale",
+      "cart/u132textRun34": "Add product",
+      "cart/u132textRun35": "Custom amount",
+      "cart/u132textRun36": "Aquae Skateboard Deck",
+      "cart/u132textRun37": "$80.00",
+      "cart/u132textRun38": "Arcanum Skateboard Wheels",
+      "cart/u132textRun39": "$96.00",
+      "cart/u132textRun40": "MVSE Knit Beanie",
+      "cart/u132textRun41": "$28.00",
+      "cart/u132textRun42": "Subtotal",
+      "cart/u132textRun43": "$204.00",
+      "cart/u132textRun44": "Taxes",
+      "cart/u132textRun45": "$16.32",
+      "cart/u132textRun46": "Subtotal",
+      "cart/u132textRun47": "$220.32",
+      "cart/u132textRun48": "Collect $220.32"
+    },
+    "assetsMap": {
+      "rive_u132_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_1-desktop.webp?v=1763747924",
+        "image": null,
+        "localUrl": "/assets/rive-external/1fd41ad040-rive_u132_1-desktop.webp"
+      },
+      "rive_u132_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_2-desktop.webp?v=1763747923",
+        "image": null,
+        "localUrl": "/assets/rive-external/02f03979cb-rive_u132_2-desktop.webp"
+      },
+      "rive_u132_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_3-desktop.webp?v=1763747923",
+        "image": null,
+        "localUrl": "/assets/rive-external/ebc4a8b260-rive_u132_3-desktop.webp"
+      },
+      "rive_u132_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_4-desktop.webp?v=1763747924",
+        "image": null,
+        "localUrl": "/assets/rive-external/cb338a2e3b-rive_u132_4-desktop.webp"
+      },
+      "rive_u132_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_1-mobile.webp?v=1763747932",
+        "image": null,
+        "localUrl": "/assets/rive-external/6138193773-rive_u132_1-mobile.webp"
+      },
+      "rive_u132_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_2-mobile.webp?v=1763747932",
+        "image": null,
+        "localUrl": "/assets/rive-external/6d5c3c42c3-rive_u132_2-mobile.webp"
+      },
+      "rive_u132_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_3-mobile.webp?v=1763747932",
+        "image": null,
+        "localUrl": "/assets/rive-external/bdc9c562b0-rive_u132_3-mobile.webp"
+      },
+      "rive_u132_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_4-mobile.webp?v=1763747932",
+        "image": null,
+        "localUrl": "/assets/rive-external/9f18caad94-rive_u132_4-mobile.webp"
+      },
+      "u132bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u132bg.webp?v=1764907441",
+        "image": null,
+        "localUrl": "/assets/rive-external/da867ff130-u132bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u132_12_9_v10.riv"
+  },
+  {
+    "index": 16,
+    "productHandle": "dynamic-shop-storefronts",
+    "sectionId": "shop-app",
+    "description": "On a mobile phone, the user changes to show how each person gets a custom storefront. ",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u151_12_9_v5.riv?v=1765314323",
+    "artboard": "u151main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "shopCard4/u151textRun1": "New arrivals",
+      "shopCard3/u151textRun2": "Accessories",
+      "shopCard2/u151textRun3": "Bosquet Inverse Skateboard Deck",
+      "shopCard2/u151textRun4": "$80.00",
+      "shopCard2/u151textRun5": "Marcella Skateboard Deck",
+      "shopCard2/u151textRun6": "$80.00",
+      "shopCard2/u151textRun7": "For you",
+      "shopCard1/u151textRun8": "$22.00",
+      "shopCard1/u151textRun9": "$28.00",
+      "shopCard1/u151textRun10": "$20.00",
+      "shopCard1/u151textRun11": "$28.00",
+      "shopCard1/u151textRun12": "Jump back in",
+      "u151main/u151textRun13": "Shop all",
+      "u151main/u151textRun14": "Skate",
+      "u151main/u151textRun15": "Apparel",
+      "u151main/u151textRun16": "Accessories",
+      "u151main/u151textRun17": "Follow",
+      "u151main/u151textRun18": "4.8",
+      "u151main/u151textRun19": "641 Reviews"
+    },
+    "assetsMap": {
+      "rive_u151_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_1-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/d8252b18bd-rive_u151_1-desktop.webp"
+      },
+      "rive_u151_10-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_10-desktop.webp?v=1763762800",
+        "image": null,
+        "localUrl": "/assets/rive-external/5ce20f5089-rive_u151_10-desktop.webp"
+      },
+      "rive_u151_11-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_11-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/aa5dfa931d-rive_u151_11-desktop.webp"
+      },
+      "rive_u151_12-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_12-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/61f62cab2a-rive_u151_12-desktop.webp"
+      },
+      "rive_u151_13-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_13-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/9cffb2586d-rive_u151_13-desktop.webp"
+      },
+      "rive_u151_14-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_14-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/12e685a80b-rive_u151_14-desktop.webp"
+      },
+      "rive_u151_15-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_15-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/800746c2f5-rive_u151_15-desktop.webp"
+      },
+      "rive_u151_16-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_16-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/d058d625b6-rive_u151_16-desktop.webp"
+      },
+      "rive_u151_17-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_17-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/b6121235f5-rive_u151_17-desktop.webp"
+      },
+      "rive_u151_18-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_18-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/7b5be24a71-rive_u151_18-desktop.webp"
+      },
+      "rive_u151_19-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_19-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/83ff08d421-rive_u151_19-desktop.webp"
+      },
+      "rive_u151_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_2-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/30619aaec4-rive_u151_2-desktop.webp"
+      },
+      "rive_u151_20-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_20-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/3212f7624d-rive_u151_20-desktop.webp"
+      },
+      "rive_u151_21-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_21-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/811dc82edf-rive_u151_21-desktop.webp"
+      },
+      "rive_u151_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_3-desktop.webp?v=1763762800",
+        "image": null,
+        "localUrl": "/assets/rive-external/0d5f17968c-rive_u151_3-desktop.webp"
+      },
+      "rive_u151_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_4-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/4599b8a3a3-rive_u151_4-desktop.webp"
+      },
+      "rive_u151_5-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_5-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/a325da86ca-rive_u151_5-desktop.webp"
+      },
+      "rive_u151_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_6-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/fe6c6fd80e-rive_u151_6-desktop.webp"
+      },
+      "rive_u151_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_7-desktop.webp?v=1765230370",
+        "image": null,
+        "localUrl": "/assets/rive-external/40498c2e97-rive_u151_7-desktop.webp"
+      },
+      "rive_u151_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_8-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/af28b3891e-rive_u151_8-desktop.webp"
+      },
+      "rive_u151_9-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_9-desktop.webp?v=1763762799",
+        "image": null,
+        "localUrl": "/assets/rive-external/4f337ddcb7-rive_u151_9-desktop.webp"
+      },
+      "rive_u151_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_1-mobile.webp?v=1765373243",
+        "image": null,
+        "localUrl": "/assets/rive-external/16a714d5ab-rive_u151_1-mobile.webp"
+      },
+      "rive_u151_10-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_10-mobile.webp?v=1765340334",
+        "image": null,
+        "localUrl": "/assets/rive-external/d4fe8f36fe-rive_u151_10-mobile.webp"
+      },
+      "rive_u151_11-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_11-mobile.webp?v=1765340296",
+        "image": null,
+        "localUrl": "/assets/rive-external/db792e829c-rive_u151_11-mobile.webp"
+      },
+      "rive_u151_12-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_12-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/3a160fa548-rive_u151_12-mobile.webp"
+      },
+      "rive_u151_13-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_13-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/5a729681e0-rive_u151_13-mobile.webp"
+      },
+      "rive_u151_14-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_14-mobile.webp?v=1765340020",
+        "image": null,
+        "localUrl": "/assets/rive-external/64f3f1f841-rive_u151_14-mobile.webp"
+      },
+      "rive_u151_15-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_15-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/82ade76c9c-rive_u151_15-mobile.webp"
+      },
+      "rive_u151_16-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_16-mobile.webp?v=1765340079",
+        "image": null,
+        "localUrl": "/assets/rive-external/bcf853898c-rive_u151_16-mobile.webp"
+      },
+      "rive_u151_17-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_17-mobile.webp?v=1765340214",
+        "image": null,
+        "localUrl": "/assets/rive-external/b8d1e3ca26-rive_u151_17-mobile.webp"
+      },
+      "rive_u151_18-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_18-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/8cef676150-rive_u151_18-mobile.webp"
+      },
+      "rive_u151_19-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_19-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/7058b8c707-rive_u151_19-mobile.webp"
+      },
+      "rive_u151_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_2-mobile.webp?v=1765340313",
+        "image": null,
+        "localUrl": "/assets/rive-external/69db52feeb-rive_u151_2-mobile.webp"
+      },
+      "rive_u151_20-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_20-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/9b53eb47a2-rive_u151_20-mobile.webp"
+      },
+      "rive_u151_21-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_21-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/b4a5d92c95-rive_u151_21-mobile.webp"
+      },
+      "rive_u151_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_3-mobile.webp?v=1765340478",
+        "image": null,
+        "localUrl": "/assets/rive-external/bb92aa0488-rive_u151_3-mobile.webp"
+      },
+      "rive_u151_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_4-mobile.webp?v=1765340485",
+        "image": null,
+        "localUrl": "/assets/rive-external/9ca471e3e1-rive_u151_4-mobile.webp"
+      },
+      "rive_u151_5-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_5-mobile.webp?v=1763762805",
+        "image": null,
+        "localUrl": "/assets/rive-external/2f14fd1670-rive_u151_5-mobile.webp"
+      },
+      "rive_u151_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_6-mobile.webp?v=1765340001",
+        "image": null,
+        "localUrl": "/assets/rive-external/301ad6f098-rive_u151_6-mobile.webp"
+      },
+      "rive_u151_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_7-mobile.webp?v=1765340063",
+        "image": null,
+        "localUrl": "/assets/rive-external/85ec77e25a-rive_u151_7-mobile.webp"
+      },
+      "rive_u151_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_8-mobile.webp?v=1765340361",
+        "image": null,
+        "localUrl": "/assets/rive-external/8be2d2cec8-rive_u151_8-mobile.webp"
+      },
+      "rive_u151_9-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_9-mobile.webp?v=1765340285",
+        "image": null,
+        "localUrl": "/assets/rive-external/7d8fb44ef0-rive_u151_9-mobile.webp"
+      },
+      "rive_u151_22-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_22-desktop.png?v=1764892938",
+        "image": null,
+        "localUrl": "/assets/rive-external/534803bdd3-rive_u151_22-desktop.png"
+      },
+      "rive_u151_22-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_22-mobile.png?v=1765340123",
+        "image": null,
+        "localUrl": "/assets/rive-external/44b73f0dd5-rive_u151_22-mobile.png"
+      },
+      "rive_u151_23-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_23-desktop.png?v=1764892938",
+        "image": null,
+        "localUrl": "/assets/rive-external/54b8c927b3-rive_u151_23-desktop.png"
+      },
+      "rive_u151_23-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_23-mobile.png?v=1765340202",
+        "image": null,
+        "localUrl": "/assets/rive-external/1cff9bad67-rive_u151_23-mobile.png"
+      },
+      "rive_u151_24-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_24-desktop.png?v=1764892939",
+        "image": null,
+        "localUrl": "/assets/rive-external/7ccb13b7bb-rive_u151_24-desktop.png"
+      },
+      "rive_u151_24-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_24-mobile.png?v=1765340091",
+        "image": null,
+        "localUrl": "/assets/rive-external/7096deaec7-rive_u151_24-mobile.png"
+      },
+      "rive_u151_25-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_25-desktop.png?v=1764892938",
+        "image": null,
+        "localUrl": "/assets/rive-external/b38b59fb90-rive_u151_25-desktop.png"
+      },
+      "rive_u151_25-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_25-mobile.png?v=1765340106",
+        "image": null,
+        "localUrl": "/assets/rive-external/83e82d6bc6-rive_u151_25-mobile.png"
+      },
+      "gt-standard-m-standard-semibold": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/GT-Standard-M-Standard-Semibold.txt?v=1762965564",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/38ded3c75b-GT-Standard-M-Standard-Semibold.txt"
+      }
+    },
+    "src": "/assets/rive/u151_12_9_v5.riv"
+  },
+  {
+    "index": 17,
+    "productHandle": "suppliers-can-discover-retailers",
+    "sectionId": "b2b",
+    "description": "A search bar shows a supplier looking for skateboards to sell. ",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u82_12_2.riv?v=1764706422",
+    "artboard": "u82main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "View Model 1",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "card1/u82textRun1": "Gooch's Cycle",
+      "card1/u82textRun2": "Sporting goods",
+      "card2/u82textRun3": "Range + Steel",
+      "card2/u82textRun4": "Sporting goods",
+      "card3/u82textRun5": "Queens Court",
+      "card3/u82textRun6": "Sporting goods",
+      "card4/u82textRun7": "Ride & Tide",
+      "card4/u82textRun8": "Sporting goods",
+      "card5/u82textRun9": "MVSE SKATE",
+      "card5/u82textRun10": "Sporting goods",
+      "card6/u82textRun11": "Sval Gear",
+      "card6/u82textRun12": "Sporting goods",
+      "u82main/u82textRun13": "Invite to sell",
+      "u82main/u82textRun14": "Skateboards",
+      "u82main/u82textRun15": "Search"
+    },
+    "assetsMap": {
+      "rive_u82_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_1-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/f8feb9427d-rive_u82_1-desktop.webp"
+      },
+      "rive_u82_10-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_10-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/a68d518e2d-rive_u82_10-desktop.webp"
+      },
+      "rive_u82_11-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_11-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/49eec25df7-rive_u82_11-desktop.webp"
+      },
+      "rive_u82_12-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_12-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/7ba7554277-rive_u82_12-desktop.webp"
+      },
+      "rive_u82_13-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_13-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/d89e5a3155-rive_u82_13-desktop.webp"
+      },
+      "rive_u82_14-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_14-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/90e9737f45-rive_u82_14-desktop.webp"
+      },
+      "rive_u82_15-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_15-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/d2c38c1a3d-rive_u82_15-desktop.webp"
+      },
+      "rive_u82_16-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_16-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/7ce7b3eb19-rive_u82_16-desktop.webp"
+      },
+      "rive_u82_17-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_17-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/e11d29e693-rive_u82_17-desktop.webp"
+      },
+      "rive_u82_18-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_18-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/459885e0bd-rive_u82_18-desktop.webp"
+      },
+      "rive_u82_19-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_19-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/8544bffaf2-rive_u82_19-desktop.webp"
+      },
+      "rive_u82_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_2-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/5326b46028-rive_u82_2-desktop.webp"
+      },
+      "rive_u82_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_3-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/3e1d30a410-rive_u82_3-desktop.webp"
+      },
+      "rive_u82_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_4-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/270894ee7c-rive_u82_4-desktop.webp"
+      },
+      "rive_u82_5-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_5-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/f8c9f17aac-rive_u82_5-desktop.webp"
+      },
+      "rive_u82_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_6-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/a322520d5b-rive_u82_6-desktop.webp"
+      },
+      "rive_u82_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_7-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/aa20b692b7-rive_u82_7-desktop.webp"
+      },
+      "rive_u82_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_8-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/84f93a7f21-rive_u82_8-desktop.webp"
+      },
+      "rive_u82_9-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_9-desktop.webp?v=1763747675",
+        "image": null,
+        "localUrl": "/assets/rive-external/4b110dea24-rive_u82_9-desktop.webp"
+      },
+      "rive_u82_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_1-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/55e4fe8350-rive_u82_1-mobile.webp"
+      },
+      "rive_u82_10-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_10-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/fdd0de3f23-rive_u82_10-mobile.webp"
+      },
+      "rive_u82_11-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_11-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/12624aa88d-rive_u82_11-mobile.webp"
+      },
+      "rive_u82_12-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_12-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/e4a3ca311c-rive_u82_12-mobile.webp"
+      },
+      "rive_u82_13-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_13-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/e37d8a541e-rive_u82_13-mobile.webp"
+      },
+      "rive_u82_14-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_14-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/8e59b96f9a-rive_u82_14-mobile.webp"
+      },
+      "rive_u82_15-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_15-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/7534d0f2a0-rive_u82_15-mobile.webp"
+      },
+      "rive_u82_16-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_16-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/319a202540-rive_u82_16-mobile.webp"
+      },
+      "rive_u82_17-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_17-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/2511ba18a8-rive_u82_17-mobile.webp"
+      },
+      "rive_u82_18-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_18-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/7d3a94986a-rive_u82_18-mobile.webp"
+      },
+      "rive_u82_19-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_19-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/57af96ad8f-rive_u82_19-mobile.webp"
+      },
+      "rive_u82_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_2-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/3a3d9472d6-rive_u82_2-mobile.webp"
+      },
+      "rive_u82_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_3-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/a080412ccf-rive_u82_3-mobile.webp"
+      },
+      "rive_u82_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_4-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/df6c76b56f-rive_u82_4-mobile.webp"
+      },
+      "rive_u82_5-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_5-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/498049e98a-rive_u82_5-mobile.webp"
+      },
+      "rive_u82_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_6-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/91096dd2ab-rive_u82_6-mobile.webp"
+      },
+      "rive_u82_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_7-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/94ff64caf2-rive_u82_7-mobile.webp"
+      },
+      "rive_u82_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_8-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/470b89aa6a-rive_u82_8-mobile.webp"
+      },
+      "rive_u82_9-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_9-mobile.webp?v=1763747682",
+        "image": null,
+        "localUrl": "/assets/rive-external/58a70bbf36-rive_u82_9-mobile.webp"
+      },
+      "u82bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u82bg.webp?v=1764629178",
+        "image": null,
+        "localUrl": "/assets/rive-external/04ce54b1f4-u82bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u82_12_2.riv"
+  },
+  {
+    "index": 18,
+    "productHandle": "continuous-funding-with-the-shopify-capital-flex-account",
+    "sectionId": "finance",
+    "description": "The animation starts with an application for funding, then there's a request to withdraw money, and finally the money is withdrawn. ",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u172_12_9.riv?v=1765314577",
+    "artboard": "u172main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": null,
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "u172textRun1": " outstanding",
+      "u172textRun2": "$20k",
+      "u172textRun3": "$30k",
+      "u172textRun4": " pending",
+      "u172textRun5": "$10k",
+      "u172textRun6": " available",
+      "u172textRun7": "$20k",
+      "u172textRun8": "$10k",
+      "u172textRun9": "$20,000 ",
+      "u172textRun14": "$30,000 ",
+      "u172textRun10": "in the last 2 days ",
+      "u172textRun11": "$20,000",
+      "u172textRun12": "$10,000",
+      "u172textRun13": "Request withdrawal up to",
+      "u172textRun20": "Enter an amount between $1 and $20,000 ",
+      "u172textRun21": "10,000",
+      "u172textRun22": "$",
+      "u172textRun23": "Request",
+      "u172textRun24": "Capital",
+      "u172textRun25": "Confirm withdrawal request"
+    },
+    "assetsMap": {
+      "u172bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u172bg.webp?v=1764907720",
+        "image": null,
+        "localUrl": "/assets/rive-external/b7fd202a32-u172bg.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u172_12_9.riv"
+  },
+  {
+    "index": 19,
+    "productHandle": "build-commerce-agents-from-the-dev-dash",
+    "sectionId": "developer",
+    "description": "",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/dev_dash_12_8.riv?v=1765208939",
+    "artboard": "Artboard",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": null,
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {},
+    "assetsMap": {
+      "rive_devdash_1-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_1-desktop.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/21e79a3ce9-rive_devDash_1-desktop.webp"
+      },
+      "rive_devdash_1-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_1-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/5dece0c924-rive_devDash_1-mobile.webp"
+      },
+      "rive_devdash_10": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_10.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/b74c91bbe4-rive_devDash_10.webp"
+      },
+      "rive_devdash_11": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_11.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/f3eeeeb716-rive_devDash_11.webp"
+      },
+      "rive_devdash_12": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_12.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/697cc051c8-rive_devDash_12.webp"
+      },
+      "rive_devdash_13-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_13-desktop.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/14b8dd42f3-rive_devDash_13-desktop.webp"
+      },
+      "rive_devdash_13-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_13-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/022d4bd2b7-rive_devDash_13-mobile.webp"
+      },
+      "rive_devdash_14-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_14-desktop.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/8aeec473af-rive_devDash_14-desktop.webp"
+      },
+      "rive_devdash_14-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_14-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/25c10430c2-rive_devDash_14-mobile.webp"
+      },
+      "rive_devdash_15-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_15-desktop.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/8f68e2b46b-rive_devDash_15-desktop.webp"
+      },
+      "rive_devdash_15-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_15-mobile.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/d6aaaa5851-rive_devDash_15-mobile.webp"
+      },
+      "rive_devdash_16-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_16-desktop.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/29af78a90f-rive_devDash_16-desktop.webp"
+      },
+      "rive_devdash_16-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_16-mobile.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/5133cf5e95-rive_devDash_16-mobile.webp"
+      },
+      "rive_devdash_2-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_2-desktop.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/f4a0c43358-rive_devDash_2-desktop.webp"
+      },
+      "rive_devdash_2-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_2-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/1bd54841ae-rive_devDash_2-mobile.webp"
+      },
+      "rive_devdash_3-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_3-desktop.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/8b451543a1-rive_devDash_3-desktop.webp"
+      },
+      "rive_devdash_3-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_3-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/4a5a8b2533-rive_devDash_3-mobile.webp"
+      },
+      "rive_devdash_4-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_4-desktop.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/b3f8e798a6-rive_devDash_4-desktop.webp"
+      },
+      "rive_devdash_4-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_4-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/37d3a104f1-rive_devDash_4-mobile.webp"
+      },
+      "rive_devdash_5-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_5-desktop.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/756a5da2a4-rive_devDash_5-desktop.webp"
+      },
+      "rive_devdash_5-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_5-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/6df6d9feb6-rive_devDash_5-mobile.webp"
+      },
+      "rive_devdash_6-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_6-desktop.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/afb639acf2-rive_devDash_6-desktop.webp"
+      },
+      "rive_devdash_6-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_6-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/f5690d14cf-rive_devDash_6-mobile.webp"
+      },
+      "rive_devdash_7-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_7-desktop.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/101498b41c-rive_devDash_7-desktop.webp"
+      },
+      "rive_devdash_7-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_7-mobile.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/6914a38ca1-rive_devDash_7-mobile.webp"
+      },
+      "rive_devdash_8-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_8-desktop.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/6bcb4b2da6-rive_devDash_8-desktop.webp"
+      },
+      "rive_devdash_8-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_8-mobile.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/9714a19a41-rive_devDash_8-mobile.webp"
+      },
+      "rive_devdash_9-desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_9-desktop.webp?v=1765169343",
+        "image": null,
+        "localUrl": "/assets/rive-external/017d809faf-rive_devDash_9-desktop.webp"
+      },
+      "rive_devdash_9-mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_9-mobile.webp?v=1765169342",
+        "image": null,
+        "localUrl": "/assets/rive-external/9f356a0354-rive_devDash_9-mobile.webp"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/dev_dash_12_8.riv"
+  },
+  {
+    "index": 20,
+    "productHandle": "shop-minis-sdk",
+    "sectionId": "developer",
+    "description": "",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_12_9.riv?v=1765260356",
+    "artboard": "u200main",
+    "animations": null,
+    "stateMachines": "State Machine 1",
+    "viewModelName": "main_vm",
+    "interactive": false,
+    "playsOnHover": false,
+    "tracksMouseOver": false,
+    "pausePlayback": false,
+    "input": null,
+    "maxWidth": 1800,
+    "skipAspectRatio": false,
+    "textRunMap": {
+      "img1/u200textRun1": "Daily Fits",
+      "img1/u200textRun2": "Track your outfits",
+      "img2/u200textRun3": "FoodSocial",
+      "img2/u200textRun4": "your favorite recipes",
+      "img2/u200textRun5": "browse, save and shop",
+      "img2/u200textRun6": "Explore recipes",
+      "img3/u200textRun7": "LET’S FIND OUT.",
+      "img3/u200textRun8": "HOW GOOD IS YOUR FIT?",
+      "img3/u200textRun9": "CHOOSE IMAGE",
+      "img3/u200textRun10": "THIS AIN'T IT",
+      "img3/u200textRun11": "SWEET",
+      "img3/u200textRun12": "Rate my fit",
+      "img3/u200textRun13": "Outfit feedback"
+    },
+    "assetsMap": {
+      "u200_1_desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_1_desktop.webp?v=1765260369",
+        "image": null,
+        "localUrl": "/assets/rive-external/acca05089e-u200_1_desktop.webp"
+      },
+      "u200_1_mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_1_mobile.webp?v=1765260369",
+        "image": null,
+        "localUrl": "/assets/rive-external/01411f4db5-u200_1_mobile.webp"
+      },
+      "u200_2_desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_2_desktop.webp?v=1765260369",
+        "image": null,
+        "localUrl": "/assets/rive-external/0decb279c5-u200_2_desktop.webp"
+      },
+      "u200_2_mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_2_mobile.webp?v=1765260369",
+        "image": null,
+        "localUrl": "/assets/rive-external/c5e26667a3-u200_2_mobile.webp"
+      },
+      "u200_3_desktop": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_3_desktop.webp?v=1765260369",
+        "image": null,
+        "localUrl": "/assets/rive-external/b8425b648c-u200_3_desktop.webp"
+      },
+      "u200_3_mobile": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_3_mobile.webp?v=1765260369",
+        "image": null,
+        "localUrl": "/assets/rive-external/8b569d18b3-u200_3_mobile.webp"
+      },
+      "u200bg": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/u200bg.webp?v=1765260369",
+        "image": null,
+        "localUrl": "/assets/rive-external/0353498c54-u200bg.webp"
+      },
+      "gt-standard-m-standard-semibold": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/GT-Standard-M-Standard-Semibold.txt?v=1762965564",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/38ded3c75b-GT-Standard-M-Standard-Semibold.txt"
+      },
+      "inter": {
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1759177125",
+        "font": null,
+        "isFont": true,
+        "localUrl": "/assets/rive-external/75725daace-Inter.txt"
+      }
+    },
+    "src": "/assets/rive/u200_12_9.riv"
+  }
+]

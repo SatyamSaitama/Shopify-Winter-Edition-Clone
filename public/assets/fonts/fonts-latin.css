@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "NeueMontreal";
+  src: url("/assets/fonts/3ee238256136fcfdfca35decbd44d0d4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  font-feature-settings: "liga" 1, "kern" 1;
+}
+
+@font-face {
+  font-family: "PP Neue Montreal";
+  src: url("/assets/fonts/3ee238256136fcfdfca35decbd44d0d4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  font-feature-settings: "liga" 1, "kern" 1;
+}
+
+@font-face {
+  font-family: "HWCigars";
+  src: url("/assets/fonts/49a57a6e59f6a50f0627418abeb58fec.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-feature-settings: "liga" 1, "dlig" 1, "kern" 1, "smcp" 1, "c2sc" 1, "case" 1;
+}
+
+@font-face {
+  font-family: "ImperialScript";
+  src: url("/assets/fonts/389d4f8566b3b9cbe083b682c7fabf06.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/assets/fonts/5949cd393a8375a896fd0a9b74307666.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+}
