@@ -692,27 +692,31 @@ export class SceneRuntime {
           ? Math.min(1, this.camera.aspect)
           : 1;
 
-    if (values["position.x"] !== undefined) {
-      object.position.set(
-        (values["position.x"] ?? object.position.x) * responsiveScale,
-        (values["position.y"] ?? object.position.y) * responsiveScale,
-        values["position.z"] ?? object.position.z
-      );
-    }
-    if (values["rotation.x"] !== undefined) {
-      object.rotation.set(
-        values["rotation.x"] ?? object.rotation.x,
-        values["rotation.y"] ?? object.rotation.y,
-        values["rotation.z"] ?? object.rotation.z
-      );
-    }
-    if (values["scale.x"] !== undefined) {
-      object.scale.set(
-        (values["scale.x"] ?? object.scale.x) * responsiveScale,
-        (values["scale.y"] ?? object.scale.y) * responsiveScale,
-        (values["scale.z"] ?? object.scale.z) * responsiveScale
-      );
-    }
+    // Theatre serializes only the channels an author actually touched, so every
+    // axis has to be applied independently. Gating a whole vector on its `.x`
+    // channel silently dropped the backdrops that author only `z` (Finance) or
+    // `z`/`y` (Operations): the plane stayed at the origin, in front of the
+    // models, and hid the scene behind it.
+    const position = values["position.x"];
+    if (position !== undefined) object.position.x = position * responsiveScale;
+    if (values["position.y"] !== undefined)
+      object.position.y = values["position.y"] * responsiveScale;
+    if (values["position.z"] !== undefined)
+      object.position.z = values["position.z"];
+
+    if (values["rotation.x"] !== undefined)
+      object.rotation.x = values["rotation.x"];
+    if (values["rotation.y"] !== undefined)
+      object.rotation.y = values["rotation.y"];
+    if (values["rotation.z"] !== undefined)
+      object.rotation.z = values["rotation.z"];
+
+    if (values["scale.x"] !== undefined)
+      object.scale.x = values["scale.x"] * responsiveScale;
+    if (values["scale.y"] !== undefined)
+      object.scale.y = values["scale.y"] * responsiveScale;
+    if (values["scale.z"] !== undefined)
+      object.scale.z = values["scale.z"] * responsiveScale;
     if (values.visibility !== undefined) {
       const visibility = THREE.MathUtils.clamp(values.visibility, 0, 1);
       object.visible = visibility > 0;
