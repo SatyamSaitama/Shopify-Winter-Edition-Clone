@@ -129,23 +129,30 @@ function measureScenes(): SceneMetric[] {
 }
 
 /**
- * A chapter's Theatre clock runs over its own document box: time 0 as its top
- * reaches the viewport top, the full sequence by its bottom. The one-viewport
- * (plus authored early-crossfade) lead belongs to the *shader* transition, not
- * to the clock — folding it into the clock starts every chapter mid-sequence.
- * On Operations that landed the camera at t≈3.2 of a 5.2s move, framing the
- * table instead of the figures.
+ * Absolute Theatre sequence position for a chapter at a given scroll offset.
  *
- * Using the same function for the incoming chapter also keeps its clock
- * continuous: it reads 0 while the chapter is still fading in and carries that
- * value forward unchanged when it becomes current, so nothing pops.
+ * Using the same function for the incoming chapter keeps its clock continuous:
+ * it reads 0 while the chapter is still fading in and carries that value
+ * forward unchanged when it becomes current, so nothing pops.
  */
-function chapterProgress(metric: SceneMetric, scrollY: number) {
-  // Normalized over the authored hero block, not the chapter's full document
-  // box. Editorial length varies from 2192px to 8556px between chapters while
-  // every authored hero is 1.4 viewports, so scrubbing against `height` would
-  // run each chapter's sequence at a different speed.
-  return clamp01((scrollY - metric.top) / metric.heroHeight);
+function chapterSequencePosition(
+  metric: SceneMetric,
+  scrollY: number,
+  viewportHeight: number
+) {
+  // Ported from the captured coordinator, which sets
+  //   sequence.position = max(0, sectionProgress * (height + vh) / vh + offset)
+  // with offset -1 for the hero and 0 elsewhere. `sectionProgress` spans
+  // (height + vh) of scroll starting one viewport before the section top, so
+  // the whole expression collapses to one sequence unit per viewport scrolled.
+  // This is an absolute Theatre position, never a 0..1 fraction — normalizing
+  // it over the section box ran each chapter's sequence at its own speed and
+  // opened Operations around t=3.2 of a 5.2s camera move.
+  const offset = metric.id === "hero" ? 1 : 0;
+  return Math.max(
+    0,
+    (scrollY - metric.top + viewportHeight) / viewportHeight - offset
+  );
 }
 
 function resolveScrollScenes(
@@ -162,7 +169,11 @@ function resolveScrollScenes(
   );
   const position = found === -1 ? metrics.length - 1 : found;
   const current = metrics[position];
-  const currentProgress = chapterProgress(current, scrollY);
+  const currentProgress = chapterSequencePosition(
+    current,
+    scrollY,
+    viewportHeight
+  );
 
   const next = metrics[position + 1] ?? null;
   if (!next) {
@@ -192,7 +203,7 @@ function resolveScrollScenes(
     current,
     currentProgress,
     next: crossfadeLead > 0 ? next : null,
-    nextProgress: chapterProgress(next, scrollY),
+    nextProgress: chapterSequencePosition(next, scrollY, viewportHeight),
     transitionProgress,
   };
 }

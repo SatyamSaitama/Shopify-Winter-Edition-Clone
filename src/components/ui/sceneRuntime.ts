@@ -263,7 +263,6 @@ export class SceneRuntime {
   private sequenceLength = 10;
   private cameraGaze = 0.5;
   private currentTime = 0;
-  private currentProgress = 0;
   private customCameraNode: THREE.Object3D | null = null;
   private particleCloud: ParticleCloud | null = null;
   private sharedEnvironment: THREE.Texture | null = null;
@@ -356,8 +355,14 @@ export class SceneRuntime {
     }
   }
 
+  /**
+   * `sequencePosition` is an absolute Theatre position in sequence units, not a
+   * 0..1 fraction of the sequence — the source advances it one unit per
+   * viewport scrolled. Tracks hold their last keyframe past the end, so it is
+   * deliberately not clamped to `sequenceLength`.
+   */
   update(
-    progress: number,
+    sequencePosition: number,
     delta: number,
     elapsed: number,
     pointer: ScenePointer,
@@ -365,20 +370,15 @@ export class SceneRuntime {
     heroScrollTime?: number
   ) {
     if (this.disposed) return;
-    this.currentProgress = THREE.MathUtils.clamp(progress, 0, 1);
+    const position = Math.max(0, sequencePosition);
 
     const timelineStart = this.definition.sequenceStart ?? 0;
-    let time =
-      timelineStart +
-      this.currentProgress * (this.sequenceLength - timelineStart);
+    let time = timelineStart + position;
     if (this.id === "hero") {
       const intro = this.reducedMotion
         ? 1
         : this.heroIntroProgress(nowMilliseconds);
-      time =
-        intro +
-        (heroScrollTime ??
-          this.currentProgress * Math.max(0, this.sequenceLength - 1));
+      time = intro + (heroScrollTime ?? position);
     }
     this.applyTheatreTime(time);
 
